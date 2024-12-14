@@ -1,0 +1,1788 @@
+season,team,win,loss,n_games,pts_diff_per_game,playoffs
+2025,Atlanta Hawks,10,11,21,-3.24,FALSE
+2025,Boston Celtics,16,3,19,10.58,FALSE
+2025,Brooklyn Nets,9,11,20,-3,FALSE
+2025,Chicago Bulls,8,13,21,-5.76,FALSE
+2025,Charlotte Hornets,6,14,20,-4.6,FALSE
+2025,Cleveland Cavaliers,17,3,20,9.8,FALSE
+2025,Dallas Mavericks,12,8,20,6.5,FALSE
+2025,Denver Nuggets,10,7,17,1.94,FALSE
+2025,Detroit Pistons,9,13,22,-1.86,FALSE
+2025,Golden State Warriors,12,7,19,6.37,FALSE
+2025,Houston Rockets,14,6,20,8.5,FALSE
+2025,Indiana Pacers,9,11,20,-3.75,FALSE
+2025,Los Angeles Clippers,12,9,21,2.19,FALSE
+2025,Los Angeles Lakers,11,8,19,-1.32,FALSE
+2025,Memphis Grizzlies,13,7,20,8.45,FALSE
+2025,Miami Heat,9,8,17,1.59,FALSE
+2025,Milwaukee Bucks,10,9,19,0.89,FALSE
+2025,Minnesota Timberwolves,9,10,19,0.84,FALSE
+2025,New Orleans Pelicans,4,16,20,-11.75,FALSE
+2025,New York Knicks,11,8,19,4.95,FALSE
+2025,Oklahoma City Thunder,15,4,19,10.68,FALSE
+2025,Orlando Magic,14,7,21,5.67,FALSE
+2025,Philadelphia 76ers,4,14,18,-7,FALSE
+2025,Phoenix Suns,11,8,19,-0.74,FALSE
+2025,Portland Trail Blazers,8,12,20,-7.55,FALSE
+2025,Sacramento Kings,9,11,20,0.35,FALSE
+2025,San Antonio Spurs,10,9,19,0.26,FALSE
+2025,Toronto Raptors,5,15,20,-4.35,FALSE
+2025,Utah Jazz,4,15,19,-9.95,FALSE
+2025,Washington Wizards,2,16,18,-15,FALSE
+2024,Atlanta Hawks,36,46,82,-2.18,FALSE
+2024,Boston Celtics,64,18,82,11.34,TRUE
+2024,Brooklyn Nets,32,50,82,-2.89,FALSE
+2024,Chicago Bulls,39,43,82,-1.44,FALSE
+2024,Charlotte Hornets,21,61,82,-10.24,FALSE
+2024,Cleveland Cavaliers,48,34,82,2.41,TRUE
+2024,Dallas Mavericks,50,32,82,2.21,TRUE
+2024,Denver Nuggets,57,25,82,5.26,TRUE
+2024,Detroit Pistons,14,68,82,-9.11,FALSE
+2024,Golden State Warriors,46,36,82,2.61,FALSE
+2024,Houston Rockets,41,41,82,1.12,FALSE
+2024,Indiana Pacers,47,35,82,3.05,TRUE
+2024,Los Angeles Clippers,51,31,82,3.28,TRUE
+2024,Los Angeles Lakers,47,35,82,0.6,TRUE
+2024,Memphis Grizzlies,27,55,82,-7,FALSE
+2024,Miami Heat,46,36,82,1.76,TRUE
+2024,Milwaukee Bucks,49,33,82,2.62,TRUE
+2024,Minnesota Timberwolves,56,26,82,6.45,TRUE
+2024,New Orleans Pelicans,49,33,82,4.41,TRUE
+2024,New York Knicks,50,32,82,4.59,TRUE
+2024,Oklahoma City Thunder,57,25,82,7.41,TRUE
+2024,Orlando Magic,47,35,82,2.02,TRUE
+2024,Philadelphia 76ers,47,35,82,3.05,TRUE
+2024,Phoenix Suns,49,33,82,3.06,TRUE
+2024,Portland Trail Blazers,21,61,82,-9.02,FALSE
+2024,Sacramento Kings,46,36,82,1.74,FALSE
+2024,San Antonio Spurs,22,60,82,-6.49,FALSE
+2024,Toronto Raptors,25,57,82,-6.44,FALSE
+2024,Utah Jazz,31,51,82,-4.89,FALSE
+2024,Washington Wizards,15,67,82,-9.29,FALSE
+2023,Atlanta Hawks,41,41,82,0.29,FALSE
+2023,Boston Celtics,57,25,82,6.52,FALSE
+2023,Brooklyn Nets,45,37,82,0.85,FALSE
+2023,Chicago Bulls,40,42,82,1.29,FALSE
+2023,Charlotte Hornets,27,55,82,-6.24,FALSE
+2023,Cleveland Cavaliers,51,31,82,5.38,FALSE
+2023,Dallas Mavericks,38,44,82,0.07,FALSE
+2023,Denver Nuggets,53,29,82,3.33,FALSE
+2023,Detroit Pistons,17,65,82,-8.22,FALSE
+2023,Golden State Warriors,44,38,82,1.8,FALSE
+2023,Houston Rockets,22,60,82,-7.85,FALSE
+2023,Indiana Pacers,35,47,82,-3.18,FALSE
+2023,Los Angeles Clippers,44,38,82,0.5,FALSE
+2023,Los Angeles Lakers,43,39,82,0.57,FALSE
+2023,Memphis Grizzlies,51,31,82,3.94,FALSE
+2023,Miami Heat,44,38,82,-0.32,FALSE
+2023,Milwaukee Bucks,58,24,82,3.63,FALSE
+2023,Minnesota Timberwolves,42,40,82,-0.04,FALSE
+2023,New Orleans Pelicans,42,40,82,1.89,FALSE
+2023,New York Knicks,47,35,82,2.93,FALSE
+2023,Oklahoma City Thunder,40,42,82,1.09,FALSE
+2023,Orlando Magic,34,48,82,-2.56,FALSE
+2023,Philadelphia 76ers,54,28,82,4.32,FALSE
+2023,Phoenix Suns,45,37,82,2.07,FALSE
+2023,Portland Trail Blazers,33,49,82,-4.01,FALSE
+2023,Sacramento Kings,48,34,82,2.65,FALSE
+2023,San Antonio Spurs,22,60,82,-10.04,FALSE
+2023,Toronto Raptors,41,41,82,1.48,FALSE
+2023,Utah Jazz,37,45,82,-0.94,FALSE
+2023,Washington Wizards,35,47,82,-1.21,FALSE
+2022,Atlanta Hawks,43,39,82,1.56,TRUE
+2022,Boston Celtics,51,31,82,7.28,TRUE
+2022,Brooklyn Nets,44,38,82,0.78,TRUE
+2022,Chicago Bulls,46,36,82,-0.39,TRUE
+2022,Charlotte Hornets,43,39,82,0.44,FALSE
+2022,Cleveland Cavaliers,44,38,82,2.12,FALSE
+2022,Dallas Mavericks,52,30,82,3.3,TRUE
+2022,Denver Nuggets,48,34,82,2.3,TRUE
+2022,Detroit Pistons,23,59,82,-7.72,FALSE
+2022,Golden State Warriors,53,29,82,5.54,TRUE
+2022,Houston Rockets,20,62,82,-8.48,FALSE
+2022,Indiana Pacers,25,57,82,-3.48,FALSE
+2022,Los Angeles Clippers,42,40,82,0.02,FALSE
+2022,Los Angeles Lakers,33,49,82,-3.05,FALSE
+2022,Memphis Grizzlies,56,26,82,5.68,TRUE
+2022,Miami Heat,53,29,82,4.45,TRUE
+2022,Milwaukee Bucks,51,31,82,3.35,TRUE
+2022,Minnesota Timberwolves,46,36,82,2.63,TRUE
+2022,New Orleans Pelicans,36,46,82,-0.99,TRUE
+2022,New York Knicks,37,45,82,-0.12,FALSE
+2022,Oklahoma City Thunder,24,58,82,-8.1,FALSE
+2022,Orlando Magic,22,60,82,-8,FALSE
+2022,Philadelphia 76ers,51,31,82,2.61,TRUE
+2022,Phoenix Suns,64,18,82,7.5,TRUE
+2022,Portland Trail Blazers,27,55,82,-8.88,FALSE
+2022,Sacramento Kings,30,52,82,-5.46,FALSE
+2022,San Antonio Spurs,34,48,82,0.12,FALSE
+2022,Toronto Raptors,48,34,82,2.29,TRUE
+2022,Utah Jazz,49,33,82,6.04,TRUE
+2022,Washington Wizards,35,47,82,-3.38,FALSE
+2021,Atlanta Hawks,41,31,72,2.32,TRUE
+2021,Boston Celtics,36,36,72,1.46,TRUE
+2021,Brooklyn Nets,48,24,72,4.5,TRUE
+2021,Chicago Bulls,31,41,72,-0.89,FALSE
+2021,Charlotte Hornets,33,39,72,-1.93,FALSE
+2021,Cleveland Cavaliers,22,50,72,-8.44,FALSE
+2021,Dallas Mavericks,42,30,72,2.26,TRUE
+2021,Denver Nuggets,47,25,72,4.93,TRUE
+2021,Detroit Pistons,20,52,72,-4.47,FALSE
+2021,Golden State Warriors,39,33,72,1.06,FALSE
+2021,Houston Rockets,17,55,72,-7.9,FALSE
+2021,Indiana Pacers,34,38,72,-0.04,FALSE
+2021,Los Angeles Clippers,47,25,72,6.18,TRUE
+2021,Los Angeles Lakers,42,30,72,2.79,TRUE
+2021,Memphis Grizzlies,38,34,72,1.03,TRUE
+2021,Miami Heat,40,32,72,0.03,TRUE
+2021,Milwaukee Bucks,46,26,72,5.89,TRUE
+2021,Minnesota Timberwolves,23,49,72,-5.56,FALSE
+2021,New Orleans Pelicans,31,41,72,-0.29,FALSE
+2021,New York Knicks,41,31,72,2.31,TRUE
+2021,Oklahoma City Thunder,22,50,72,-10.64,FALSE
+2021,Orlando Magic,21,51,72,-9.31,FALSE
+2021,Philadelphia 76ers,49,23,72,5.58,TRUE
+2021,Phoenix Suns,51,21,72,5.82,TRUE
+2021,Portland Trail Blazers,42,30,72,1.79,TRUE
+2021,Sacramento Kings,31,41,72,-3.68,FALSE
+2021,San Antonio Spurs,33,39,72,-1.74,FALSE
+2021,Toronto Raptors,27,45,72,-0.47,FALSE
+2021,Utah Jazz,52,20,72,9.25,TRUE
+2021,Washington Wizards,34,38,72,-1.83,TRUE
+2020,Atlanta Hawks,20,47,67,-7.97,FALSE
+2020,Boston Celtics,48,24,72,6.31,TRUE
+2020,Brooklyn Nets,35,37,72,-0.57,TRUE
+2020,Chicago Bulls,22,43,65,-3.08,FALSE
+2020,Charlotte Hornets,23,42,65,-6.75,FALSE
+2020,Cleveland Cavaliers,19,46,65,-7.89,FALSE
+2020,Dallas Mavericks,43,32,75,4.95,TRUE
+2020,Denver Nuggets,46,27,73,2.11,TRUE
+2020,Detroit Pistons,20,46,66,-3.56,FALSE
+2020,Golden State Warriors,15,50,65,-8.71,FALSE
+2020,Houston Rockets,44,28,72,2.96,TRUE
+2020,Indiana Pacers,45,28,73,1.96,TRUE
+2020,Los Angeles Clippers,49,23,72,6.44,TRUE
+2020,Los Angeles Lakers,52,19,71,5.79,TRUE
+2020,Memphis Grizzlies,34,39,73,-1.07,FALSE
+2020,Miami Heat,44,29,73,2.95,TRUE
+2020,Milwaukee Bucks,56,17,73,10.08,TRUE
+2020,Minnesota Timberwolves,19,45,64,-4.3,FALSE
+2020,New Orleans Pelicans,30,42,72,-1.29,FALSE
+2020,New York Knicks,21,45,66,-6.45,FALSE
+2020,Oklahoma City Thunder,44,28,72,1.99,TRUE
+2020,Orlando Magic,33,40,73,-1.01,TRUE
+2020,Philadelphia 76ers,43,30,73,2.38,TRUE
+2020,Phoenix Suns,34,39,73,0.22,FALSE
+2020,Portland Trail Blazers,35,39,74,-1.15,TRUE
+2020,Sacramento Kings,31,41,72,-2.04,FALSE
+2020,San Antonio Spurs,32,39,71,-1.11,FALSE
+2020,Toronto Raptors,53,19,72,6.24,TRUE
+2020,Utah Jazz,44,28,72,2.47,TRUE
+2020,Washington Wizards,25,47,72,-4.67,FALSE
+2019,Atlanta Hawks,29,53,82,-6.02,FALSE
+2019,Boston Celtics,49,33,82,4.44,TRUE
+2019,Brooklyn Nets,42,40,82,-0.07,TRUE
+2019,Chicago Bulls,22,60,82,-8.41,FALSE
+2019,Charlotte Hornets,39,43,82,-1.1,FALSE
+2019,Cleveland Cavaliers,19,63,82,-9.61,FALSE
+2019,Dallas Mavericks,33,49,82,-1.28,FALSE
+2019,Denver Nuggets,54,28,82,3.95,TRUE
+2019,Detroit Pistons,41,41,82,-0.24,TRUE
+2019,Golden State Warriors,57,25,82,6.46,TRUE
+2019,Houston Rockets,53,29,82,4.77,TRUE
+2019,Indiana Pacers,48,34,82,3.33,TRUE
+2019,Los Angeles Clippers,48,34,82,0.85,TRUE
+2019,Los Angeles Lakers,37,45,82,-1.72,FALSE
+2019,Memphis Grizzlies,33,49,82,-2.6,FALSE
+2019,Miami Heat,39,43,82,-0.23,FALSE
+2019,Milwaukee Bucks,60,22,82,8.87,TRUE
+2019,Minnesota Timberwolves,36,46,82,-1.5,FALSE
+2019,New Orleans Pelicans,33,49,82,-1.33,FALSE
+2019,New York Knicks,17,65,82,-9.21,FALSE
+2019,Oklahoma City Thunder,49,33,82,3.4,TRUE
+2019,Orlando Magic,42,40,82,0.71,TRUE
+2019,Philadelphia 76ers,51,31,82,2.7,TRUE
+2019,Phoenix Suns,19,63,82,-9.34,FALSE
+2019,Portland Trail Blazers,53,29,82,4.2,TRUE
+2019,Sacramento Kings,39,43,82,-1.12,FALSE
+2019,San Antonio Spurs,48,34,82,1.68,TRUE
+2019,Toronto Raptors,58,24,82,6.09,TRUE
+2019,Utah Jazz,50,32,82,5.26,TRUE
+2019,Washington Wizards,32,50,82,-2.9,FALSE
+2018,Atlanta Hawks,24,58,82,-5.45,FALSE
+2018,Boston Celtics,55,27,82,3.59,TRUE
+2018,Brooklyn Nets,28,54,82,-3.74,FALSE
+2018,Chicago Bulls,27,55,82,-7.04,FALSE
+2018,Charlotte Hornets,36,46,82,0.26,FALSE
+2018,Cleveland Cavaliers,50,32,82,0.94,TRUE
+2018,Dallas Mavericks,24,58,82,-3.04,FALSE
+2018,Denver Nuggets,46,36,82,1.48,FALSE
+2018,Detroit Pistons,39,43,82,-0.15,FALSE
+2018,Golden State Warriors,58,24,82,5.98,TRUE
+2018,Houston Rockets,65,17,82,8.48,TRUE
+2018,Indiana Pacers,48,34,82,1.38,TRUE
+2018,Los Angeles Clippers,42,40,82,0.04,FALSE
+2018,Los Angeles Lakers,35,47,82,-1.55,FALSE
+2018,Memphis Grizzlies,22,60,82,-6.21,FALSE
+2018,Miami Heat,44,38,82,0.48,TRUE
+2018,Milwaukee Bucks,44,38,82,-0.3,TRUE
+2018,Minnesota Timberwolves,47,35,82,2.23,TRUE
+2018,New Orleans Pelicans,48,34,82,1.3,TRUE
+2018,New York Knicks,29,53,82,-3.56,FALSE
+2018,Oklahoma City Thunder,48,34,82,3.41,TRUE
+2018,Orlando Magic,25,57,82,-4.82,FALSE
+2018,Philadelphia 76ers,52,30,82,4.5,TRUE
+2018,Phoenix Suns,21,61,82,-9.37,FALSE
+2018,Portland Trail Blazers,49,33,82,2.6,TRUE
+2018,Sacramento Kings,27,55,82,-6.99,FALSE
+2018,San Antonio Spurs,47,35,82,2.89,TRUE
+2018,Toronto Raptors,59,23,82,7.78,TRUE
+2018,Utah Jazz,48,34,82,4.3,TRUE
+2018,Washington Wizards,43,39,82,0.59,TRUE
+2017,Atlanta Hawks,43,39,82,-0.85,TRUE
+2017,Boston Celtics,53,29,82,2.63,TRUE
+2017,Brooklyn Nets,20,62,82,-6.73,FALSE
+2017,Chicago Bulls,41,41,82,0.43,TRUE
+2017,Charlotte Hornets,36,46,82,0.2,FALSE
+2017,Cleveland Cavaliers,51,31,82,3.18,TRUE
+2017,Dallas Mavericks,33,49,82,-2.93,FALSE
+2017,Denver Nuggets,40,42,82,0.51,FALSE
+2017,Detroit Pistons,37,45,82,-1.12,FALSE
+2017,Golden State Warriors,67,15,82,11.63,TRUE
+2017,Houston Rockets,55,27,82,5.77,TRUE
+2017,Indiana Pacers,42,40,82,-0.22,TRUE
+2017,Los Angeles Clippers,51,31,82,4.29,TRUE
+2017,Los Angeles Lakers,26,56,82,-6.88,FALSE
+2017,Memphis Grizzlies,43,39,82,0.49,TRUE
+2017,Miami Heat,41,41,82,1.06,FALSE
+2017,Milwaukee Bucks,42,40,82,-0.18,TRUE
+2017,Minnesota Timberwolves,31,51,82,-1.11,FALSE
+2017,New Orleans Pelicans,34,48,82,-2.1,FALSE
+2017,New York Knicks,31,51,82,-3.67,FALSE
+2017,Oklahoma City Thunder,47,35,82,0.76,TRUE
+2017,Orlando Magic,29,53,82,-6.57,FALSE
+2017,Philadelphia 76ers,28,54,82,-5.7,FALSE
+2017,Phoenix Suns,24,58,82,-5.63,FALSE
+2017,Portland Trail Blazers,41,41,82,-0.52,TRUE
+2017,Sacramento Kings,32,50,82,-3.88,FALSE
+2017,San Antonio Spurs,61,21,82,7.2,TRUE
+2017,Toronto Raptors,51,31,82,4.21,TRUE
+2017,Utah Jazz,51,31,82,3.94,TRUE
+2017,Washington Wizards,49,33,82,1.8,TRUE
+2016,Atlanta Hawks,48,34,82,3.61,TRUE
+2016,Boston Celtics,48,34,82,3.21,TRUE
+2016,Brooklyn Nets,21,61,82,-7.35,FALSE
+2016,Chicago Bulls,42,40,82,-1.48,FALSE
+2016,Charlotte Hornets,48,34,82,2.72,TRUE
+2016,Cleveland Cavaliers,57,25,82,6,TRUE
+2016,Dallas Mavericks,42,40,82,-0.3,TRUE
+2016,Denver Nuggets,33,49,82,-3.1,FALSE
+2016,Detroit Pistons,44,38,82,0.61,TRUE
+2016,Golden State Warriors,73,9,82,10.76,TRUE
+2016,Houston Rockets,41,41,82,0.2,TRUE
+2016,Indiana Pacers,45,37,82,1.71,TRUE
+2016,Los Angeles Clippers,53,29,82,4.28,TRUE
+2016,Los Angeles Lakers,17,65,82,-9.56,FALSE
+2016,Memphis Grizzlies,42,40,82,-2.24,TRUE
+2016,Miami Heat,48,34,82,1.65,TRUE
+2016,Milwaukee Bucks,33,49,82,-4.18,FALSE
+2016,Minnesota Timberwolves,29,53,82,-3.54,FALSE
+2016,New Orleans Pelicans,30,52,82,-3.79,FALSE
+2016,New York Knicks,32,50,82,-2.73,FALSE
+2016,Oklahoma City Thunder,55,27,82,7.28,TRUE
+2016,Orlando Magic,35,47,82,-1.62,FALSE
+2016,Philadelphia 76ers,10,72,82,-10.23,FALSE
+2016,Phoenix Suns,23,59,82,-6.66,FALSE
+2016,Portland Trail Blazers,44,38,82,0.83,TRUE
+2016,Sacramento Kings,33,49,82,-2.48,FALSE
+2016,San Antonio Spurs,67,15,82,10.63,TRUE
+2016,Toronto Raptors,56,26,82,4.5,TRUE
+2016,Utah Jazz,40,42,82,1.79,FALSE
+2016,Washington Wizards,41,41,82,-0.5,FALSE
+2015,Atlanta Hawks,60,22,82,5.43,TRUE
+2015,Boston Celtics,40,42,82,0.16,TRUE
+2015,Brooklyn Nets,38,44,82,-2.88,TRUE
+2015,Chicago Bulls,50,32,82,3,TRUE
+2015,Charlotte Hornets,33,49,82,-3.17,FALSE
+2015,Cleveland Cavaliers,53,29,82,4.48,TRUE
+2015,Dallas Mavericks,50,32,82,2.9,TRUE
+2015,Denver Nuggets,30,52,82,-3.55,FALSE
+2015,Detroit Pistons,32,50,82,-1,FALSE
+2015,Golden State Warriors,67,15,82,10.1,TRUE
+2015,Houston Rockets,56,26,82,3.44,TRUE
+2015,Indiana Pacers,38,44,82,0.28,FALSE
+2015,Los Angeles Clippers,56,26,82,6.59,TRUE
+2015,Los Angeles Lakers,21,61,82,-6.84,FALSE
+2015,Memphis Grizzlies,55,27,82,3.24,TRUE
+2015,Miami Heat,37,45,82,-2.6,FALSE
+2015,Milwaukee Bucks,41,41,82,0.43,TRUE
+2015,Minnesota Timberwolves,16,66,82,-8.79,FALSE
+2015,New Orleans Pelicans,45,37,82,0.79,TRUE
+2015,New York Knicks,17,65,82,-9.32,FALSE
+2015,Oklahoma City Thunder,45,37,82,2.18,FALSE
+2015,Orlando Magic,25,57,82,-5.72,FALSE
+2015,Philadelphia 76ers,18,64,82,-8.98,FALSE
+2015,Phoenix Suns,39,43,82,-0.9,FALSE
+2015,Portland Trail Blazers,51,31,82,4.23,TRUE
+2015,Sacramento Kings,29,53,82,-3.71,FALSE
+2015,San Antonio Spurs,55,27,82,6.2,TRUE
+2015,Toronto Raptors,49,33,82,3.07,TRUE
+2015,Utah Jazz,38,44,82,0.22,FALSE
+2015,Washington Wizards,46,36,82,0.72,TRUE
+2014,Atlanta Hawks,38,44,82,-0.48,TRUE
+2014,Boston Celtics,25,57,82,-4.46,FALSE
+2014,Brooklyn Nets,44,38,82,-1,TRUE
+2014,Charlotte Bobcats,43,39,82,-0.22,TRUE
+2014,Chicago Bulls,48,34,82,1.85,TRUE
+2014,Cleveland Cavaliers,33,49,82,-3.29,FALSE
+2014,Dallas Mavericks,49,33,82,2.4,TRUE
+2014,Denver Nuggets,36,46,82,-2.15,FALSE
+2014,Detroit Pistons,29,53,82,-3.66,FALSE
+2014,Golden State Warriors,51,31,82,4.8,TRUE
+2014,Houston Rockets,54,28,82,4.56,TRUE
+2014,Indiana Pacers,56,26,82,4.4,TRUE
+2014,Los Angeles Clippers,57,25,82,6.98,TRUE
+2014,Los Angeles Lakers,27,55,82,-6.29,FALSE
+2014,Memphis Grizzlies,50,32,82,1.57,TRUE
+2014,Miami Heat,54,28,82,4.76,TRUE
+2014,Milwaukee Bucks,15,67,82,-8.18,FALSE
+2014,Minnesota Timberwolves,40,42,82,2.67,FALSE
+2014,New Orleans Pelicans,34,48,82,-2.71,FALSE
+2014,New York Knicks,37,45,82,-0.79,FALSE
+2014,Oklahoma City Thunder,59,23,82,6.34,TRUE
+2014,Orlando Magic,23,59,82,-5.44,FALSE
+2014,Philadelphia 76ers,19,63,82,-10.45,FALSE
+2014,Phoenix Suns,48,34,82,2.63,FALSE
+2014,Portland Trail Blazers,54,28,82,3.99,TRUE
+2014,Sacramento Kings,28,54,82,-2.9,FALSE
+2014,San Antonio Spurs,62,20,82,7.72,TRUE
+2014,Toronto Raptors,48,34,82,3.24,TRUE
+2014,Utah Jazz,25,57,82,-7.17,FALSE
+2014,Washington Wizards,44,38,82,1.27,TRUE
+2013,Atlanta Hawks,44,38,82,0.4,TRUE
+2013,Boston Celtics,41,40,81,-0.22,TRUE
+2013,Brooklyn Nets,49,33,82,1.78,TRUE
+2013,Charlotte Bobcats,21,61,82,-9.23,FALSE
+2013,Chicago Bulls,45,37,82,0.32,TRUE
+2013,Cleveland Cavaliers,24,58,82,-4.68,FALSE
+2013,Dallas Mavericks,41,41,82,-0.6,FALSE
+2013,Denver Nuggets,57,25,82,5.09,TRUE
+2013,Detroit Pistons,29,53,82,-3.99,FALSE
+2013,Golden State Warriors,47,35,82,0.89,TRUE
+2013,Houston Rockets,45,37,82,3.48,TRUE
+2013,Indiana Pacers,49,32,81,4.02,TRUE
+2013,Los Angeles Clippers,56,26,82,6.45,TRUE
+2013,Los Angeles Lakers,45,37,82,1.16,TRUE
+2013,Memphis Grizzlies,56,26,82,4.15,TRUE
+2013,Miami Heat,66,16,82,7.87,TRUE
+2013,Milwaukee Bucks,38,44,82,-1.5,TRUE
+2013,Minnesota Timberwolves,31,51,82,-2.37,FALSE
+2013,New Orleans Hornets,27,55,82,-3.87,FALSE
+2013,New York Knicks,54,28,82,4.23,TRUE
+2013,Oklahoma City Thunder,60,22,82,9.21,TRUE
+2013,Orlando Magic,20,62,82,-6.99,FALSE
+2013,Philadelphia 76ers,34,48,82,-3.34,FALSE
+2013,Phoenix Suns,25,57,82,-6.46,FALSE
+2013,Portland Trail Blazers,33,49,82,-3.17,FALSE
+2013,Sacramento Kings,28,54,82,-4.88,FALSE
+2013,San Antonio Spurs,58,24,82,6.4,TRUE
+2013,Toronto Raptors,34,48,82,-1.48,FALSE
+2013,Utah Jazz,43,39,82,-0.09,FALSE
+2013,Washington Wizards,29,53,82,-2.54,FALSE
+2012,Atlanta Hawks,40,26,66,3.44,TRUE
+2012,Boston Celtics,39,27,66,2.52,TRUE
+2012,Charlotte Bobcats,7,59,66,-13.91,FALSE
+2012,Chicago Bulls,50,16,66,8.18,TRUE
+2012,Cleveland Cavaliers,21,45,66,-7.2,FALSE
+2012,Dallas Mavericks,36,30,66,0.95,TRUE
+2012,Denver Nuggets,38,28,66,2.88,TRUE
+2012,Detroit Pistons,25,41,66,-4.79,FALSE
+2012,Golden State Warriors,23,43,66,-3.41,FALSE
+2012,Houston Rockets,34,32,66,0.23,FALSE
+2012,Indiana Pacers,42,24,66,3.3,TRUE
+2012,Los Angeles Clippers,40,26,66,2.56,TRUE
+2012,Los Angeles Lakers,41,25,66,1.42,TRUE
+2012,Memphis Grizzlies,41,25,66,2.02,TRUE
+2012,Miami Heat,46,20,66,5.98,TRUE
+2012,Milwaukee Bucks,31,35,66,0.27,FALSE
+2012,Minnesota Timberwolves,26,40,66,-2.2,FALSE
+2012,New Jersey Nets,22,44,66,-5.98,FALSE
+2012,New Orleans Hornets,21,45,66,-3.76,FALSE
+2012,New York Knicks,36,30,66,3.2,TRUE
+2012,Oklahoma City Thunder,47,19,66,6.12,TRUE
+2012,Orlando Magic,37,29,66,0.79,TRUE
+2012,Philadelphia 76ers,35,31,66,4.24,TRUE
+2012,Phoenix Suns,33,33,66,-0.24,FALSE
+2012,Portland Trail Blazers,28,38,66,-0.62,FALSE
+2012,Sacramento Kings,22,44,66,-5.68,FALSE
+2012,San Antonio Spurs,50,16,66,7.17,TRUE
+2012,Toronto Raptors,23,43,66,-3.3,FALSE
+2012,Utah Jazz,36,30,66,0.62,TRUE
+2012,Washington Wizards,20,46,66,-4.8,FALSE
+2011,Atlanta Hawks,44,38,82,-0.82,TRUE
+2011,Boston Celtics,56,26,82,5.37,TRUE
+2011,Charlotte Bobcats,34,48,82,-4,FALSE
+2011,Chicago Bulls,62,20,82,7.32,TRUE
+2011,Cleveland Cavaliers,19,63,82,-9.01,FALSE
+2011,Dallas Mavericks,57,25,82,4.23,TRUE
+2011,Denver Nuggets,50,32,82,4.76,TRUE
+2011,Detroit Pistons,30,52,82,-3.6,FALSE
+2011,Golden State Warriors,36,46,82,-2.33,FALSE
+2011,Houston Rockets,43,39,82,2.18,FALSE
+2011,Indiana Pacers,37,45,82,-1.07,TRUE
+2011,Los Angeles Clippers,32,50,82,-3.13,FALSE
+2011,Los Angeles Lakers,57,25,82,6.11,TRUE
+2011,Memphis Grizzlies,46,36,82,2.34,TRUE
+2011,Miami Heat,58,24,82,7.46,TRUE
+2011,Milwaukee Bucks,35,47,82,-0.84,FALSE
+2011,Minnesota Timberwolves,17,65,82,-6.63,FALSE
+2011,New Jersey Nets,24,58,82,-6.24,FALSE
+2011,New Orleans Hornets,46,36,82,0.89,TRUE
+2011,New York Knicks,42,40,82,0.78,TRUE
+2011,Oklahoma City Thunder,55,27,82,3.79,TRUE
+2011,Orlando Magic,52,30,82,5.46,TRUE
+2011,Philadelphia 76ers,41,41,82,1.5,TRUE
+2011,Phoenix Suns,40,42,82,-0.89,FALSE
+2011,Portland Trail Blazers,48,34,82,1.52,TRUE
+2011,Sacramento Kings,24,58,82,-5.34,FALSE
+2011,San Antonio Spurs,61,21,82,5.71,TRUE
+2011,Toronto Raptors,22,60,82,-6.28,FALSE
+2011,Utah Jazz,39,43,82,-1.83,FALSE
+2011,Washington Wizards,23,59,82,-7.4,FALSE
+2010,Atlanta Hawks,53,29,82,4.66,TRUE
+2010,Boston Celtics,50,32,82,3.66,TRUE
+2010,Charlotte Bobcats,44,38,82,1.46,TRUE
+2010,Chicago Bulls,41,41,82,-1.63,TRUE
+2010,Cleveland Cavaliers,61,21,82,6.52,TRUE
+2010,Dallas Mavericks,55,27,82,2.72,TRUE
+2010,Denver Nuggets,53,29,82,4.09,TRUE
+2010,Detroit Pistons,27,55,82,-5.11,FALSE
+2010,Golden State Warriors,26,56,82,-3.6,FALSE
+2010,Houston Rockets,42,40,82,-0.37,FALSE
+2010,Indiana Pacers,32,50,82,-3.01,FALSE
+2010,Los Angeles Clippers,29,53,82,-6.35,FALSE
+2010,Los Angeles Lakers,57,25,82,4.72,TRUE
+2010,Memphis Grizzlies,40,42,82,-1.51,FALSE
+2010,Miami Heat,47,35,82,2.28,TRUE
+2010,Milwaukee Bucks,46,36,82,1.7,TRUE
+2010,Minnesota Timberwolves,15,67,82,-9.6,FALSE
+2010,New Jersey Nets,12,70,82,-9.12,FALSE
+2010,New Orleans Hornets,37,45,82,-2.46,FALSE
+2010,New York Knicks,29,53,82,-3.82,FALSE
+2010,Oklahoma City Thunder,50,32,82,3.49,TRUE
+2010,Orlando Magic,59,23,82,7.49,TRUE
+2010,Philadelphia 76ers,27,55,82,-3.9,FALSE
+2010,Phoenix Suns,54,28,82,4.9,TRUE
+2010,Portland Trail Blazers,50,32,82,3.3,TRUE
+2010,Sacramento Kings,25,57,82,-4.37,FALSE
+2010,San Antonio Spurs,50,32,82,5.09,TRUE
+2010,Toronto Raptors,40,42,82,-1.78,FALSE
+2010,Utah Jazz,53,29,82,5.34,TRUE
+2010,Washington Wizards,26,56,82,-4.78,FALSE
+2009,Atlanta Hawks,47,35,82,1.57,TRUE
+2009,Boston Celtics,62,20,82,7.51,TRUE
+2009,Charlotte Bobcats,35,47,82,-1.27,FALSE
+2009,Chicago Bulls,41,41,82,-0.28,TRUE
+2009,Cleveland Cavaliers,66,16,82,8.93,TRUE
+2009,Dallas Mavericks,50,32,82,1.98,TRUE
+2009,Denver Nuggets,54,28,82,3.41,TRUE
+2009,Detroit Pistons,39,43,82,-0.49,TRUE
+2009,Golden State Warriors,29,53,82,-3.74,FALSE
+2009,Houston Rockets,53,29,82,4,TRUE
+2009,Indiana Pacers,36,46,82,-1.11,FALSE
+2009,Los Angeles Clippers,19,63,82,-8.77,FALSE
+2009,Los Angeles Lakers,65,17,82,7.66,TRUE
+2009,Memphis Grizzlies,24,58,82,-5.46,FALSE
+2009,Miami Heat,43,39,82,0.26,TRUE
+2009,Milwaukee Bucks,34,48,82,-1.09,FALSE
+2009,Minnesota Timberwolves,24,58,82,-4.91,FALSE
+2009,New Jersey Nets,34,48,82,-2.44,FALSE
+2009,New Orleans Hornets,49,33,82,1.55,TRUE
+2009,New York Knicks,32,50,82,-2.61,FALSE
+2009,Oklahoma City Thunder,23,59,82,-6.1,FALSE
+2009,Orlando Magic,59,23,82,6.7,TRUE
+2009,Philadelphia 76ers,41,41,82,0.07,TRUE
+2009,Phoenix Suns,46,36,82,1.93,FALSE
+2009,Portland Trail Blazers,54,28,82,5.34,TRUE
+2009,Sacramento Kings,17,65,82,-8.76,FALSE
+2009,San Antonio Spurs,54,28,82,3.76,TRUE
+2009,Toronto Raptors,33,49,82,-2.82,FALSE
+2009,Utah Jazz,48,34,82,2.65,TRUE
+2009,Washington Wizards,19,63,82,-7.46,FALSE
+2008,Atlanta Hawks,37,45,82,-1.82,TRUE
+2008,Boston Celtics,66,16,82,10.26,TRUE
+2008,Charlotte Bobcats,32,50,82,-4.38,FALSE
+2008,Chicago Bulls,33,49,82,-3.09,FALSE
+2008,Cleveland Cavaliers,45,37,82,-0.35,TRUE
+2008,Dallas Mavericks,51,31,82,4.54,TRUE
+2008,Denver Nuggets,50,32,82,3.71,TRUE
+2008,Detroit Pistons,59,23,82,7.39,TRUE
+2008,Golden State Warriors,48,34,82,2.21,FALSE
+2008,Houston Rockets,55,27,82,4.68,TRUE
+2008,Indiana Pacers,36,46,82,-1.4,FALSE
+2008,Los Angeles Clippers,23,59,82,-7.27,FALSE
+2008,Los Angeles Lakers,57,25,82,7.26,TRUE
+2008,Memphis Grizzlies,22,60,82,-6.21,FALSE
+2008,Miami Heat,15,67,82,-8.65,FALSE
+2008,Milwaukee Bucks,26,56,82,-6.89,FALSE
+2008,Minnesota Timberwolves,22,60,82,-6.78,FALSE
+2008,New Jersey Nets,34,48,82,-5.06,FALSE
+2008,New Orleans Hornets,56,26,82,5.28,TRUE
+2008,New York Knicks,23,59,82,-6.61,FALSE
+2008,Orlando Magic,52,30,82,5.46,TRUE
+2008,Philadelphia 76ers,40,42,82,0.41,TRUE
+2008,Phoenix Suns,55,27,82,5.05,TRUE
+2008,Portland Trail Blazers,41,41,82,-0.98,FALSE
+2008,Sacramento Kings,38,44,82,-2.26,FALSE
+2008,San Antonio Spurs,56,26,82,4.79,TRUE
+2008,Seattle Supersonics,20,62,82,-8.76,FALSE
+2008,Toronto Raptors,41,41,82,2.9,TRUE
+2008,Utah Jazz,54,28,82,6.88,TRUE
+2008,Washington Wizards,43,39,82,-0.33,TRUE
+2007,Atlanta Hawks,30,52,82,-4.76,FALSE
+2007,Boston Celtics,24,58,82,-3.41,FALSE
+2007,Charlotte Bobcats,33,49,82,-3.74,FALSE
+2007,Chicago Bulls,49,33,82,5.01,TRUE
+2007,Cleveland Cavaliers,50,32,82,3.83,TRUE
+2007,Dallas Mavericks,67,15,82,7.22,TRUE
+2007,Denver Nuggets,45,37,82,1.62,TRUE
+2007,Detroit Pistons,53,29,82,4.16,TRUE
+2007,Golden State Warriors,42,40,82,-0.34,TRUE
+2007,Houston Rockets,52,30,82,4.85,TRUE
+2007,Indiana Pacers,35,47,82,-2.44,FALSE
+2007,Los Angeles Clippers,40,42,82,-0.46,FALSE
+2007,Los Angeles Lakers,42,40,82,-0.07,TRUE
+2007,Memphis Grizzlies,22,60,82,-5.15,FALSE
+2007,Miami Heat,44,38,82,-0.91,TRUE
+2007,Milwaukee Bucks,28,54,82,-4.38,FALSE
+2007,Minnesota Timberwolves,32,50,82,-3.67,FALSE
+2007,New Jersey Nets,41,41,82,-0.77,TRUE
+2007,New Orleans/Oklahoma City Hornets,39,43,82,-1.57,FALSE
+2007,New York Knicks,33,49,82,-2.85,FALSE
+2007,Orlando Magic,40,42,82,0.78,TRUE
+2007,Philadelphia 76ers,35,47,82,-3.02,FALSE
+2007,Phoenix Suns,61,21,82,7.3,TRUE
+2007,Portland Trail Blazers,32,50,82,-4.29,FALSE
+2007,Sacramento Kings,33,49,82,-1.8,FALSE
+2007,San Antonio Spurs,58,24,82,8.43,TRUE
+2007,Seattle Supersonics,31,51,82,-2.89,FALSE
+2007,Toronto Raptors,47,35,82,0.99,TRUE
+2007,Utah Jazz,51,31,82,2.87,TRUE
+2007,Washington Wizards,41,41,82,-0.51,TRUE
+2006,Atlanta Hawks,26,56,82,-4.76,FALSE
+2006,Boston Celtics,33,49,82,-1.54,FALSE
+2006,Charlotte Bobcats,26,56,82,-4,FALSE
+2006,Chicago Bulls,41,41,82,0.63,TRUE
+2006,Cleveland Cavaliers,50,32,82,2.23,TRUE
+2006,Dallas Mavericks,60,22,82,6.07,TRUE
+2006,Denver Nuggets,44,38,82,0.23,TRUE
+2006,Detroit Pistons,64,18,82,6.67,TRUE
+2006,Golden State Warriors,34,48,82,-1.35,FALSE
+2006,Houston Rockets,34,48,82,-1.59,FALSE
+2006,Indiana Pacers,41,41,82,1.89,TRUE
+2006,Los Angeles Clippers,47,35,82,1.57,TRUE
+2006,Los Angeles Lakers,45,37,82,2.5,TRUE
+2006,Memphis Grizzlies,49,33,82,3.7,TRUE
+2006,Miami Heat,52,30,82,3.87,TRUE
+2006,Milwaukee Bucks,40,42,82,-1.04,TRUE
+2006,Minnesota Timberwolves,33,49,82,-1.88,FALSE
+2006,New Jersey Nets,49,33,82,1.37,TRUE
+2006,New Orleans/Oklahoma City Hornets,38,44,82,-2.82,FALSE
+2006,New York Knicks,23,59,82,-6.4,FALSE
+2006,Orlando Magic,36,46,82,-1.07,FALSE
+2006,Philadelphia 76ers,38,44,82,-1.95,FALSE
+2006,Phoenix Suns,54,28,82,5.55,TRUE
+2006,Portland Trail Blazers,21,61,82,-9.45,FALSE
+2006,Sacramento Kings,44,38,82,1.54,TRUE
+2006,San Antonio Spurs,63,19,82,6.82,TRUE
+2006,Seattle Supersonics,35,47,82,-3.02,FALSE
+2006,Toronto Raptors,27,55,82,-2.99,FALSE
+2006,Utah Jazz,41,41,82,-2.63,FALSE
+2006,Washington Wizards,42,40,82,1.85,TRUE
+2005,Atlanta Hawks,13,69,82,-9.71,FALSE
+2005,Boston Celtics,45,37,82,0.87,TRUE
+2005,Charlotte Bobcats,18,64,82,-5.99,FALSE
+2005,Chicago Bulls,47,35,82,1.06,TRUE
+2005,Cleveland Cavaliers,42,40,82,0.79,FALSE
+2005,Dallas Mavericks,58,24,82,5.74,TRUE
+2005,Denver Nuggets,49,33,82,2.02,TRUE
+2005,Detroit Pistons,54,28,82,3.87,TRUE
+2005,Golden State Warriors,34,48,82,-2.16,FALSE
+2005,Houston Rockets,51,31,82,4.04,TRUE
+2005,Indiana Pacers,44,38,82,0.76,TRUE
+2005,Los Angeles Clippers,37,45,82,-0.77,FALSE
+2005,Los Angeles Lakers,34,48,82,-2.96,FALSE
+2005,Memphis Grizzlies,45,37,82,2.29,TRUE
+2005,Miami Heat,59,23,82,6.52,TRUE
+2005,Milwaukee Bucks,30,52,82,-2.99,FALSE
+2005,Minnesota Timberwolves,44,38,82,1.45,FALSE
+2005,New Jersey Nets,42,40,82,-1.5,TRUE
+2005,New Orleans Hornets,18,64,82,-7.07,FALSE
+2005,New York Knicks,33,49,82,-2.44,FALSE
+2005,Orlando Magic,36,46,82,-2.24,FALSE
+2005,Philadelphia 76ers,43,39,82,-0.74,TRUE
+2005,Phoenix Suns,62,20,82,7.12,TRUE
+2005,Portland Trail Blazers,27,55,82,-4,FALSE
+2005,Sacramento Kings,50,32,82,2.16,TRUE
+2005,San Antonio Spurs,59,23,82,7.8,TRUE
+2005,Seattle Supersonics,52,30,82,2.29,TRUE
+2005,Toronto Raptors,33,49,82,-1.62,FALSE
+2005,Utah Jazz,26,56,82,-4.27,FALSE
+2005,Washington Wizards,45,37,82,-0.33,TRUE
+2004,Atlanta Hawks,28,54,82,-4.65,FALSE
+2004,Boston Celtics,36,46,82,-1.45,TRUE
+2004,Chicago Bulls,23,59,82,-6.35,FALSE
+2004,Cleveland Cavaliers,35,47,82,-2.62,FALSE
+2004,Dallas Mavericks,52,30,82,4.44,TRUE
+2004,Denver Nuggets,43,39,82,1.07,TRUE
+2004,Detroit Pistons,54,28,82,5.84,TRUE
+2004,Golden State Warriors,37,45,82,-0.73,FALSE
+2004,Houston Rockets,45,37,82,1.73,TRUE
+2004,Indiana Pacers,61,21,82,5.76,TRUE
+2004,Los Angeles Clippers,28,54,82,-4.59,FALSE
+2004,Los Angeles Lakers,56,26,82,3.9,TRUE
+2004,Memphis Grizzlies,50,32,82,2.44,TRUE
+2004,Miami Heat,42,40,82,0.52,TRUE
+2004,Milwaukee Bucks,41,41,82,1.06,TRUE
+2004,Minnesota Timberwolves,58,24,82,5.49,TRUE
+2004,New Jersey Nets,47,35,82,2.5,TRUE
+2004,New Orleans Hornets,41,41,82,-0.1,TRUE
+2004,New York Knicks,39,43,82,-1.48,TRUE
+2004,Orlando Magic,21,61,82,-7.02,FALSE
+2004,Philadelphia 76ers,33,49,82,-2.49,FALSE
+2004,Phoenix Suns,29,53,82,-3.74,FALSE
+2004,Portland Trail Blazers,41,41,82,-1.27,FALSE
+2004,Sacramento Kings,55,27,82,5.01,TRUE
+2004,San Antonio Spurs,57,25,82,7.22,TRUE
+2004,Seattle Supersonics,37,45,82,-0.63,FALSE
+2004,Toronto Raptors,33,49,82,-3.01,FALSE
+2004,Utah Jazz,42,40,82,-1.22,FALSE
+2004,Washington Wizards,25,57,82,-5.63,FALSE
+2003,Atlanta Hawks,35,47,82,-3.56,FALSE
+2003,Boston Celtics,44,38,82,-0.39,TRUE
+2003,Chicago Bulls,30,52,82,-5.13,FALSE
+2003,Cleveland Cavaliers,17,65,82,-9.62,FALSE
+2003,Dallas Mavericks,60,22,82,7.78,TRUE
+2003,Denver Nuggets,17,65,82,-8.28,FALSE
+2003,Detroit Pistons,50,32,82,3.68,TRUE
+2003,Golden State Warriors,38,44,82,-1.13,FALSE
+2003,Houston Rockets,43,39,82,1.48,FALSE
+2003,Indiana Pacers,48,34,82,3.49,TRUE
+2003,Los Angeles Clippers,27,55,82,-4.12,FALSE
+2003,Los Angeles Lakers,50,32,82,2.33,TRUE
+2003,Memphis Grizzlies,28,54,82,-3.23,FALSE
+2003,Miami Heat,25,57,82,-5.05,FALSE
+2003,Milwaukee Bucks,42,40,82,0.23,TRUE
+2003,Minnesota Timberwolves,51,31,82,2.07,TRUE
+2003,New Jersey Nets,49,33,82,5.22,TRUE
+2003,New Orleans Hornets,47,35,82,2.11,TRUE
+2003,New York Knicks,37,45,82,-1.35,FALSE
+2003,Orlando Magic,42,40,82,0.13,TRUE
+2003,Philadelphia 76ers,48,34,82,2.3,TRUE
+2003,Phoenix Suns,44,38,82,1.13,TRUE
+2003,Portland Trail Blazers,50,32,82,2.61,TRUE
+2003,Sacramento Kings,59,23,82,6.5,TRUE
+2003,San Antonio Spurs,60,22,82,5.41,TRUE
+2003,Seattle Supersonics,40,42,82,-0.12,FALSE
+2003,Toronto Raptors,24,58,82,-5.87,FALSE
+2003,Utah Jazz,47,35,82,2.39,TRUE
+2003,Washington Wizards,37,45,82,-1.01,FALSE
+2002,Atlanta Hawks,33,49,82,-4.23,FALSE
+2002,Boston Celtics,49,33,82,2.21,TRUE
+2002,Charlotte Hornets,44,38,82,0.96,TRUE
+2002,Chicago Bulls,21,61,82,-8.54,FALSE
+2002,Cleveland Cavaliers,29,53,82,-3.33,FALSE
+2002,Dallas Mavericks,57,25,82,4.26,TRUE
+2002,Denver Nuggets,27,55,82,-5.82,FALSE
+2002,Detroit Pistons,50,32,82,2.13,TRUE
+2002,Golden State Warriors,21,61,82,-5.4,FALSE
+2002,Houston Rockets,28,54,82,-4.89,FALSE
+2002,Indiana Pacers,42,40,82,0.27,TRUE
+2002,Los Angeles Clippers,39,43,82,-0.46,FALSE
+2002,Los Angeles Lakers,58,24,82,7.12,TRUE
+2002,Memphis Grizzlies,23,59,82,-7.44,FALSE
+2002,Miami Heat,36,46,82,-1.54,FALSE
+2002,Milwaukee Bucks,41,41,82,-0.22,FALSE
+2002,Minnesota Timberwolves,50,32,82,3.38,TRUE
+2002,New Jersey Nets,52,30,82,4.16,TRUE
+2002,New York Knicks,30,52,82,-3.99,FALSE
+2002,Orlando Magic,44,38,82,1.57,TRUE
+2002,Philadelphia 76ers,43,39,82,1.6,TRUE
+2002,Phoenix Suns,36,46,82,-0.68,FALSE
+2002,Portland Trail Blazers,49,33,82,2.99,TRUE
+2002,Sacramento Kings,61,21,82,7.61,TRUE
+2002,San Antonio Spurs,58,24,82,6.21,TRUE
+2002,Seattle Supersonics,45,37,82,3.02,TRUE
+2002,Toronto Raptors,42,40,82,-0.44,TRUE
+2002,Utah Jazz,44,38,82,0.89,TRUE
+2002,Washington Wizards,37,45,82,-1.4,FALSE
+2001,Atlanta Hawks,25,57,82,-5.21,FALSE
+2001,Boston Celtics,36,46,82,-2.13,FALSE
+2001,Charlotte Hornets,46,36,82,2.1,TRUE
+2001,Chicago Bulls,15,67,82,-9.1,FALSE
+2001,Cleveland Cavaliers,30,52,82,-4.24,FALSE
+2001,Dallas Mavericks,53,29,82,4.28,TRUE
+2001,Denver Nuggets,40,42,82,-2.46,FALSE
+2001,Detroit Pistons,32,50,82,-1.7,FALSE
+2001,Golden State Warriors,17,65,82,-9.05,FALSE
+2001,Houston Rockets,45,37,82,2.29,FALSE
+2001,Indiana Pacers,41,41,82,-0.2,TRUE
+2001,Los Angeles Clippers,31,51,82,-2.89,FALSE
+2001,Los Angeles Lakers,56,26,82,3.38,TRUE
+2001,Miami Heat,50,32,82,2.29,TRUE
+2001,Milwaukee Bucks,52,30,82,3.88,TRUE
+2001,Minnesota Timberwolves,47,35,82,1.35,TRUE
+2001,New Jersey Nets,26,56,82,-5.05,FALSE
+2001,New York Knicks,48,34,82,2.63,TRUE
+2001,Orlando Magic,43,39,82,0.99,TRUE
+2001,Philadelphia 76ers,56,26,82,4.28,TRUE
+2001,Phoenix Suns,51,31,82,2.21,TRUE
+2001,Portland Trail Blazers,50,32,82,4.2,TRUE
+2001,Sacramento Kings,55,27,82,5.82,TRUE
+2001,San Antonio Spurs,58,24,82,7.76,TRUE
+2001,Seattle Supersonics,44,38,82,0.02,FALSE
+2001,Toronto Raptors,47,35,82,2.26,TRUE
+2001,Utah Jazz,53,29,82,4.7,TRUE
+2001,Vancouver Grizzlies,23,59,82,-5.73,FALSE
+2001,Washington Wizards,19,63,82,-6.67,FALSE
+2000,Atlanta Hawks,28,54,82,-5.38,FALSE
+2000,Boston Celtics,35,47,82,-0.76,FALSE
+2000,Charlotte Hornets,49,33,82,2.67,TRUE
+2000,Chicago Bulls,17,65,82,-9.4,FALSE
+2000,Cleveland Cavaliers,32,50,82,-3.5,FALSE
+2000,Dallas Mavericks,40,42,82,-0.57,FALSE
+2000,Denver Nuggets,35,47,82,-2.12,FALSE
+2000,Detroit Pistons,42,40,82,1.44,TRUE
+2000,Golden State Warriors,19,63,82,-8.27,FALSE
+2000,Houston Rockets,34,48,82,-0.87,FALSE
+2000,Indiana Pacers,56,26,82,4.6,TRUE
+2000,Los Angeles Clippers,15,67,82,-11.52,FALSE
+2000,Los Angeles Lakers,67,15,82,8.55,TRUE
+2000,Miami Heat,52,30,82,3.11,TRUE
+2000,Milwaukee Bucks,42,40,82,0.22,TRUE
+2000,Minnesota Timberwolves,50,32,82,2.52,TRUE
+2000,New Jersey Nets,31,51,82,-1.04,FALSE
+2000,New York Knicks,50,32,82,1.46,TRUE
+2000,Orlando Magic,41,41,82,0.68,FALSE
+2000,Philadelphia 76ers,49,33,82,1.34,TRUE
+2000,Phoenix Suns,53,29,82,5.22,TRUE
+2000,Portland Trail Blazers,59,23,82,6.4,TRUE
+2000,Sacramento Kings,44,38,82,2.91,TRUE
+2000,San Antonio Spurs,53,29,82,5.94,TRUE
+2000,Seattle Supersonics,45,37,82,0.95,TRUE
+2000,Toronto Raptors,45,37,82,-0.16,TRUE
+2000,Utah Jazz,55,27,82,4.46,TRUE
+2000,Vancouver Grizzlies,22,60,82,-5.62,FALSE
+2000,Washington Wizards,29,53,82,-3.28,FALSE
+1999,Atlanta Hawks,31,19,50,2.9,TRUE
+1999,Boston Celtics,19,31,50,-1.86,FALSE
+1999,Charlotte Hornets,26,24,50,-0.1,FALSE
+1999,Chicago Bulls,13,37,50,-9.46,FALSE
+1999,Cleveland Cavaliers,22,28,50,-1.72,FALSE
+1999,Dallas Mavericks,19,31,50,-2.4,FALSE
+1999,Denver Nuggets,14,36,50,-6.6,FALSE
+1999,Detroit Pistons,29,21,50,3.42,TRUE
+1999,Golden State Warriors,21,29,50,-2.5,FALSE
+1999,Houston Rockets,31,19,50,2.32,TRUE
+1999,Indiana Pacers,33,17,50,3.74,TRUE
+1999,Los Angeles Clippers,9,41,50,-8.82,FALSE
+1999,Los Angeles Lakers,31,19,50,3.02,TRUE
+1999,Miami Heat,33,17,50,4.96,TRUE
+1999,Milwaukee Bucks,28,22,50,1.66,TRUE
+1999,Minnesota Timberwolves,25,25,50,0.38,TRUE
+1999,New Jersey Nets,16,34,50,-3.78,FALSE
+1999,New York Knicks,27,23,50,1.02,TRUE
+1999,Orlando Magic,33,17,50,2.6,TRUE
+1999,Philadelphia 76ers,28,22,50,2.06,TRUE
+1999,Phoenix Suns,27,23,50,2.26,TRUE
+1999,Portland Trail Blazers,35,15,50,6.36,TRUE
+1999,Sacramento Kings,27,23,50,-0.42,TRUE
+1999,San Antonio Spurs,37,13,50,8.06,TRUE
+1999,Seattle Supersonics,25,25,50,-1.08,FALSE
+1999,Toronto Raptors,23,27,50,-1.64,FALSE
+1999,Utah Jazz,37,13,50,6.52,TRUE
+1999,Vancouver Grizzlies,8,42,50,-8.66,FALSE
+1999,Washington Wizards,18,32,50,-2.24,FALSE
+1998,Atlanta Hawks,50,32,82,3.51,TRUE
+1998,Boston Celtics,36,46,82,-2.62,FALSE
+1998,Charlotte Hornets,51,31,82,2,TRUE
+1998,Chicago Bulls,62,20,82,7.11,TRUE
+1998,Cleveland Cavaliers,47,35,82,2.73,TRUE
+1998,Dallas Mavericks,20,62,82,-6.11,FALSE
+1998,Denver Nuggets,11,71,82,-11.78,FALSE
+1998,Detroit Pistons,37,45,82,1.57,FALSE
+1998,Golden State Warriors,19,63,82,-9.12,FALSE
+1998,Houston Rockets,41,41,82,-0.76,TRUE
+1998,Indiana Pacers,58,24,82,6.09,TRUE
+1998,Los Angeles Clippers,17,65,82,-7.37,FALSE
+1998,Los Angeles Lakers,61,21,82,7.74,TRUE
+1998,Miami Heat,55,27,82,4.93,TRUE
+1998,Milwaukee Bucks,36,46,82,-1.91,FALSE
+1998,Minnesota Timberwolves,45,37,82,0.71,TRUE
+1998,New Jersey Nets,43,39,82,1.57,TRUE
+1998,New York Knicks,43,39,82,2.46,TRUE
+1998,Orlando Magic,41,41,82,-1.07,FALSE
+1998,Philadelphia 76ers,31,51,82,-2.39,FALSE
+1998,Phoenix Suns,56,26,82,5.18,TRUE
+1998,Portland Trail Blazers,46,36,82,1.4,TRUE
+1998,Sacramento Kings,27,55,82,-5.59,FALSE
+1998,San Antonio Spurs,56,26,82,3.99,TRUE
+1998,Seattle Supersonics,61,21,82,7.17,TRUE
+1998,Toronto Raptors,16,66,82,-9.27,FALSE
+1998,Utah Jazz,62,20,82,6.54,TRUE
+1998,Vancouver Grizzlies,19,63,82,-7.3,FALSE
+1998,Washington Wizards,42,40,82,0.59,FALSE
+1997,Atlanta Hawks,56,26,82,5.44,TRUE
+1997,Boston Celtics,15,67,82,-7.33,FALSE
+1997,Charlotte Hornets,54,28,82,1.87,TRUE
+1997,Chicago Bulls,69,13,82,10.8,TRUE
+1997,Cleveland Cavaliers,42,40,82,1.84,FALSE
+1997,Dallas Mavericks,24,58,82,-6.35,FALSE
+1997,Denver Nuggets,21,61,82,-6.28,FALSE
+1997,Detroit Pistons,54,28,82,5.24,TRUE
+1997,Golden State Warriors,30,52,82,-4.71,FALSE
+1997,Houston Rockets,57,25,82,4.48,TRUE
+1997,Indiana Pacers,39,43,82,0.98,FALSE
+1997,Los Angeles Clippers,36,46,82,-2.35,TRUE
+1997,Los Angeles Lakers,56,26,82,4.27,TRUE
+1997,Miami Heat,61,21,82,5.49,TRUE
+1997,Milwaukee Bucks,33,49,82,-1.89,FALSE
+1997,Minnesota Timberwolves,40,42,82,-1.48,TRUE
+1997,New Jersey Nets,26,56,82,-4.56,FALSE
+1997,New York Knicks,57,25,82,3.12,TRUE
+1997,Orlando Magic,45,37,82,-0.35,TRUE
+1997,Philadelphia 76ers,22,60,82,-6.54,FALSE
+1997,Phoenix Suns,40,42,82,0.66,TRUE
+1997,Portland Trail Blazers,49,33,82,4.17,TRUE
+1997,Sacramento Kings,34,48,82,-3.38,FALSE
+1997,San Antonio Spurs,20,62,82,-7.88,FALSE
+1997,Seattle Supersonics,57,25,82,7.68,TRUE
+1997,Toronto Raptors,30,52,82,-3.12,FALSE
+1997,Utah Jazz,64,18,82,8.79,TRUE
+1997,Vancouver Grizzlies,14,68,82,-10.23,FALSE
+1997,Washington Bullets,44,38,82,1.62,TRUE
+1996,Atlanta Hawks,46,36,82,1.22,TRUE
+1996,Boston Celtics,33,49,82,-3.4,FALSE
+1996,Charlotte Hornets,41,41,82,-0.57,FALSE
+1996,Chicago Bulls,72,10,82,12.24,TRUE
+1996,Cleveland Cavaliers,47,35,82,2.59,TRUE
+1996,Dallas Mavericks,26,56,82,-4.9,FALSE
+1996,Denver Nuggets,35,47,82,-2.71,FALSE
+1996,Detroit Pistons,46,36,82,2.5,TRUE
+1996,Golden State Warriors,36,46,82,-1.45,FALSE
+1996,Houston Rockets,48,34,82,1.74,TRUE
+1996,Indiana Pacers,52,30,82,3.24,TRUE
+1996,Los Angeles Clippers,29,53,82,-3.6,FALSE
+1996,Los Angeles Lakers,53,29,82,4.45,TRUE
+1996,Miami Heat,42,40,82,1.43,TRUE
+1996,Milwaukee Bucks,25,57,82,-5.3,FALSE
+1996,Minnesota Timberwolves,26,56,82,-5.35,FALSE
+1996,New Jersey Nets,30,52,82,-4.23,FALSE
+1996,New York Knicks,47,35,82,2.32,TRUE
+1996,Orlando Magic,60,22,82,5.56,TRUE
+1996,Philadelphia 76ers,18,64,82,-10,FALSE
+1996,Phoenix Suns,41,41,82,0.33,TRUE
+1996,Portland Trail Blazers,44,38,82,2.35,TRUE
+1996,Sacramento Kings,39,43,82,-2.71,TRUE
+1996,San Antonio Spurs,59,23,82,6.3,TRUE
+1996,Seattle Supersonics,64,18,82,7.79,TRUE
+1996,Toronto Raptors,21,61,82,-7.51,FALSE
+1996,Utah Jazz,55,27,82,6.59,TRUE
+1996,Vancouver Grizzlies,15,67,82,-9.98,FALSE
+1996,Washington Bullets,39,43,82,1.06,FALSE
+1995,Atlanta Hawks,42,40,82,1.28,TRUE
+1995,Boston Celtics,35,47,82,-1.88,TRUE
+1995,Charlotte Hornets,50,32,82,3.28,TRUE
+1995,Chicago Bulls,47,35,82,4.83,TRUE
+1995,Cleveland Cavaliers,43,39,82,0.62,TRUE
+1995,Dallas Mavericks,36,46,82,-2.9,FALSE
+1995,Denver Nuggets,41,41,82,0.84,TRUE
+1995,Detroit Pistons,28,54,82,-7.29,FALSE
+1995,Golden State Warriors,26,56,82,-5.41,FALSE
+1995,Houston Rockets,47,35,82,2.12,TRUE
+1995,Indiana Pacers,52,30,82,3.7,TRUE
+1995,Los Angeles Clippers,17,65,82,-9.16,FALSE
+1995,Los Angeles Lakers,48,34,82,-0.22,TRUE
+1995,Miami Heat,32,50,82,-1.63,FALSE
+1995,Milwaukee Bucks,34,48,82,-4.37,FALSE
+1995,Minnesota Timberwolves,21,61,82,-9,FALSE
+1995,New Jersey Nets,30,52,82,-3.13,FALSE
+1995,New York Knicks,55,27,82,3.11,TRUE
+1995,Orlando Magic,57,25,82,7.06,TRUE
+1995,Philadelphia 76ers,24,58,82,-5.07,FALSE
+1995,Phoenix Suns,59,23,82,3.88,TRUE
+1995,Portland Trail Blazers,44,38,82,3.82,TRUE
+1995,Sacramento Kings,39,43,82,-1,FALSE
+1995,San Antonio Spurs,62,20,82,5.96,TRUE
+1995,Seattle Supersonics,57,25,82,8.18,TRUE
+1995,Utah Jazz,60,22,82,7.99,TRUE
+1995,Washington Bullets,21,61,82,-5.6,FALSE
+1994,Atlanta Hawks,57,25,82,5.27,TRUE
+1994,Boston Celtics,32,50,82,-4.28,FALSE
+1994,Charlotte Hornets,41,41,82,-0.22,FALSE
+1994,Chicago Bulls,55,27,82,3.09,TRUE
+1994,Cleveland Cavaliers,47,35,82,4.02,TRUE
+1994,Dallas Mavericks,13,69,82,-8.7,FALSE
+1994,Denver Nuggets,42,40,82,1.49,TRUE
+1994,Detroit Pistons,20,62,82,-7.78,FALSE
+1994,Golden State Warriors,50,32,82,1.74,TRUE
+1994,Houston Rockets,58,24,82,4.32,TRUE
+1994,Indiana Pacers,47,35,82,3.45,TRUE
+1994,Los Angeles Clippers,27,55,82,-5.72,FALSE
+1994,Los Angeles Lakers,33,49,82,-4.29,FALSE
+1994,Miami Heat,42,40,82,2.67,TRUE
+1994,Milwaukee Bucks,20,62,82,-6.48,FALSE
+1994,Minnesota Timberwolves,20,62,82,-6.93,FALSE
+1994,New Jersey Nets,45,37,82,2.2,TRUE
+1994,New York Knicks,57,25,82,6.99,TRUE
+1994,Orlando Magic,50,32,82,3.89,TRUE
+1994,Philadelphia 76ers,25,57,82,-7.62,FALSE
+1994,Phoenix Suns,56,26,82,4.84,TRUE
+1994,Portland Trail Blazers,47,35,82,2.63,TRUE
+1994,Sacramento Kings,28,54,82,-5.77,FALSE
+1994,San Antonio Spurs,55,27,82,5.26,TRUE
+1994,Seattle Supersonics,63,19,82,9.09,TRUE
+1994,Utah Jazz,53,29,82,4.22,TRUE
+1994,Washington Bullets,24,58,82,-7.38,FALSE
+1993,Atlanta Hawks,43,39,82,-0.87,TRUE
+1993,Boston Celtics,48,34,82,0.89,TRUE
+1993,Charlotte Hornets,44,38,82,-0.24,TRUE
+1993,Chicago Bulls,57,25,82,6.29,TRUE
+1993,Cleveland Cavaliers,54,28,82,6.45,TRUE
+1993,Dallas Mavericks,11,71,82,-15.2,FALSE
+1993,Denver Nuggets,36,46,82,-1.74,FALSE
+1993,Detroit Pistons,40,42,82,-1.39,FALSE
+1993,Golden State Warriors,34,48,82,-0.99,FALSE
+1993,Houston Rockets,55,27,82,4.23,TRUE
+1993,Indiana Pacers,41,41,82,1.7,TRUE
+1993,Los Angeles Clippers,41,41,82,0.35,TRUE
+1993,Los Angeles Lakers,39,43,82,-1.27,TRUE
+1993,Miami Heat,36,46,82,-1.15,FALSE
+1993,Milwaukee Bucks,28,54,82,-3.73,FALSE
+1993,Minnesota Timberwolves,19,63,82,-7.78,FALSE
+1993,New Jersey Nets,43,39,82,1.26,TRUE
+1993,New York Knicks,60,22,82,6.16,TRUE
+1993,Orlando Magic,41,41,82,1.32,FALSE
+1993,Philadelphia 76ers,26,56,82,-5.77,FALSE
+1993,Phoenix Suns,62,20,82,6.66,TRUE
+1993,Portland Trail Blazers,51,31,82,3.11,TRUE
+1993,Sacramento Kings,25,57,82,-3.17,FALSE
+1993,San Antonio Spurs,49,33,82,2.67,TRUE
+1993,Seattle Supersonics,55,27,82,7.07,TRUE
+1993,Utah Jazz,47,35,82,2.17,TRUE
+1993,Washington Bullets,22,60,82,-7.04,FALSE
+1992,Atlanta Hawks,38,44,82,-1.5,FALSE
+1992,Boston Celtics,51,31,82,3.62,TRUE
+1992,Charlotte Hornets,31,51,82,-3.9,FALSE
+1992,Chicago Bulls,67,15,82,10.44,TRUE
+1992,Cleveland Cavaliers,57,25,82,5.45,TRUE
+1992,Dallas Mavericks,22,60,82,-7.65,FALSE
+1992,Denver Nuggets,24,58,82,-7.87,FALSE
+1992,Detroit Pistons,48,34,82,2.04,TRUE
+1992,Golden State Warriors,55,27,82,3.9,TRUE
+1992,Houston Rockets,42,40,82,-1.72,FALSE
+1992,Indiana Pacers,40,42,82,1.89,TRUE
+1992,Los Angeles Clippers,45,37,82,1.07,TRUE
+1992,Los Angeles Lakers,43,39,82,-1.1,TRUE
+1992,Miami Heat,38,44,82,-4.21,TRUE
+1992,Milwaukee Bucks,31,51,82,-1.71,FALSE
+1992,Minnesota Timberwolves,15,67,82,-7.05,FALSE
+1992,New Jersey Nets,40,42,82,-1.7,TRUE
+1992,New York Knicks,51,31,82,3.89,TRUE
+1992,Orlando Magic,21,61,82,-6.91,FALSE
+1992,Philadelphia 76ers,35,47,82,-1.27,FALSE
+1992,Phoenix Suns,53,29,82,5.94,TRUE
+1992,Portland Trail Blazers,57,25,82,7.27,TRUE
+1992,Sacramento Kings,29,53,82,-6.06,FALSE
+1992,San Antonio Spurs,47,35,82,3.32,TRUE
+1992,Seattle Supersonics,47,35,82,1.88,TRUE
+1992,Utah Jazz,55,27,82,6.39,TRUE
+1992,Washington Bullets,25,57,82,-4.46,FALSE
+1991,Atlanta Hawks,43,39,82,0.77,TRUE
+1991,Boston Celtics,56,26,82,5.82,TRUE
+1991,Charlotte Hornets,26,56,82,-5.24,FALSE
+1991,Chicago Bulls,61,21,82,9.1,TRUE
+1991,Cleveland Cavaliers,33,49,82,-2.46,FALSE
+1991,Dallas Mavericks,28,54,82,-4.57,FALSE
+1991,Denver Nuggets,20,62,82,-10.91,FALSE
+1991,Detroit Pistons,50,32,82,3.27,TRUE
+1991,Golden State Warriors,44,38,82,1.63,TRUE
+1991,Houston Rockets,52,30,82,3.5,TRUE
+1991,Indiana Pacers,41,41,82,-0.39,TRUE
+1991,Los Angeles Clippers,31,51,82,-3.45,FALSE
+1991,Los Angeles Lakers,58,24,82,6.74,TRUE
+1991,Miami Heat,24,58,82,-5.99,FALSE
+1991,Milwaukee Bucks,48,34,82,2.48,TRUE
+1991,Minnesota Timberwolves,29,53,82,-3.93,FALSE
+1991,New Jersey Nets,26,56,82,-4.51,FALSE
+1991,New York Knicks,39,43,82,-0.23,TRUE
+1991,Orlando Magic,31,51,82,-3.98,FALSE
+1991,Philadelphia 76ers,44,38,82,-0.18,TRUE
+1991,Phoenix Suns,55,27,82,6.55,TRUE
+1991,Portland Trail Blazers,63,19,82,8.68,TRUE
+1991,Sacramento Kings,25,57,82,-6.78,FALSE
+1991,San Antonio Spurs,55,27,82,4.51,TRUE
+1991,Seattle Supersonics,41,41,82,1.23,TRUE
+1991,Utah Jazz,54,28,82,3.33,TRUE
+1991,Washington Bullets,30,52,82,-4.98,FALSE
+1990,Atlanta Hawks,41,41,82,1.02,FALSE
+1990,Boston Celtics,52,30,82,3.99,TRUE
+1990,Charlotte Hornets,19,63,82,-7.82,FALSE
+1990,Chicago Bulls,55,27,82,3.26,TRUE
+1990,Cleveland Cavaliers,42,40,82,-0.3,TRUE
+1990,Dallas Mavericks,47,35,82,0.07,TRUE
+1990,Denver Nuggets,43,39,82,1.41,TRUE
+1990,Detroit Pistons,59,23,82,6.09,TRUE
+1990,Golden State Warriors,37,45,82,-3.13,FALSE
+1990,Houston Rockets,41,41,82,1.46,TRUE
+1990,Indiana Pacers,42,40,82,0.16,TRUE
+1990,Los Angeles Clippers,30,52,82,-3.39,FALSE
+1990,Los Angeles Lakers,63,19,82,6.78,TRUE
+1990,Miami Heat,18,64,82,-9.72,FALSE
+1990,Milwaukee Bucks,44,38,82,-0.78,TRUE
+1990,Minnesota Timberwolves,22,60,82,-4.23,FALSE
+1990,New Jersey Nets,17,65,82,-7.87,FALSE
+1990,New York Knicks,45,37,82,1.41,TRUE
+1990,Orlando Magic,18,64,82,-8.91,FALSE
+1990,Philadelphia 76ers,53,29,82,4.99,TRUE
+1990,Phoenix Suns,54,28,82,7.1,TRUE
+1990,Portland Trail Blazers,59,23,82,6.32,TRUE
+1990,Sacramento Kings,23,59,82,-5.06,FALSE
+1990,San Antonio Spurs,56,26,82,3.49,TRUE
+1990,Seattle Supersonics,41,41,82,1.04,FALSE
+1990,Utah Jazz,55,27,82,4.79,TRUE
+1990,Washington Bullets,31,51,82,-2.16,FALSE
+1989,Atlanta Hawks,52,30,82,4.91,TRUE
+1989,Boston Celtics,42,40,82,1.16,TRUE
+1989,Charlotte Hornets,20,62,82,-8.52,FALSE
+1989,Chicago Bulls,47,35,82,1.44,TRUE
+1989,Cleveland Cavaliers,57,25,82,7.6,TRUE
+1989,Dallas Mavericks,38,44,82,-1.21,FALSE
+1989,Denver Nuggets,44,38,82,1.7,TRUE
+1989,Detroit Pistons,63,19,82,5.8,TRUE
+1989,Golden State Warriors,43,39,82,-0.3,TRUE
+1989,Houston Rockets,45,37,82,0.95,TRUE
+1989,Indiana Pacers,28,54,82,-4.17,FALSE
+1989,Los Angeles Clippers,21,61,82,-9.91,FALSE
+1989,Los Angeles Lakers,57,25,82,7.17,TRUE
+1989,Miami Heat,15,67,82,-11.23,FALSE
+1989,Milwaukee Bucks,49,33,82,3.61,TRUE
+1989,New Jersey Nets,26,56,82,-6.35,FALSE
+1989,New York Knicks,52,30,82,3.77,TRUE
+1989,Philadelphia 76ers,46,36,82,1.5,TRUE
+1989,Phoenix Suns,55,27,82,7.7,TRUE
+1989,Portland Trail Blazers,39,43,82,1.46,TRUE
+1989,Sacramento Kings,27,55,82,-5.55,FALSE
+1989,San Antonio Spurs,21,61,82,-7.28,FALSE
+1989,Seattle Supersonics,47,35,82,2.9,TRUE
+1989,Utah Jazz,51,31,82,5.02,TRUE
+1989,Washington Bullets,40,42,82,-2.16,FALSE
+1988,Atlanta Hawks,50,32,82,3.6,TRUE
+1988,Boston Celtics,57,25,82,5.94,TRUE
+1988,Chicago Bulls,50,32,82,3.4,TRUE
+1988,Cleveland Cavaliers,42,40,82,0.76,TRUE
+1988,Dallas Mavericks,53,29,82,4.37,TRUE
+1988,Denver Nuggets,54,28,82,4.07,TRUE
+1988,Detroit Pistons,54,28,82,5.17,TRUE
+1988,Golden State Warriors,20,62,82,-8.32,FALSE
+1988,Houston Rockets,46,36,82,1.39,TRUE
+1988,Indiana Pacers,38,44,82,-0.79,FALSE
+1988,Los Angeles Clippers,17,65,82,-10.32,FALSE
+1988,Los Angeles Lakers,62,20,82,5.84,TRUE
+1988,Milwaukee Bucks,42,40,82,0.54,TRUE
+1988,New Jersey Nets,19,63,82,-8.11,FALSE
+1988,New York Knicks,38,44,82,-0.49,TRUE
+1988,Philadelphia 76ers,36,46,82,-1.44,FALSE
+1988,Phoenix Suns,28,54,82,-4.48,FALSE
+1988,Portland Trail Blazers,53,29,82,4.52,TRUE
+1988,Sacramento Kings,24,58,82,-5.76,FALSE
+1988,San Antonio Spurs,31,51,82,-4.88,TRUE
+1988,Seattle Supersonics,44,38,82,2.06,TRUE
+1988,Utah Jazz,47,35,82,3.68,TRUE
+1988,Washington Bullets,38,44,82,-0.77,TRUE
+1987,Atlanta Hawks,57,25,82,7.23,TRUE
+1987,Boston Celtics,59,23,82,6.65,TRUE
+1987,Chicago Bulls,40,42,82,0.89,TRUE
+1987,Cleveland Cavaliers,31,51,82,-3.82,FALSE
+1987,Dallas Mavericks,55,27,82,6.3,TRUE
+1987,Denver Nuggets,37,45,82,-0.87,TRUE
+1987,Detroit Pistons,52,30,82,3.44,TRUE
+1987,Golden State Warriors,42,40,82,-2.34,TRUE
+1987,Houston Rockets,42,40,82,1,TRUE
+1987,Indiana Pacers,41,41,82,-0.65,TRUE
+1987,Los Angeles Clippers,12,70,82,-11.43,FALSE
+1987,Los Angeles Lakers,65,17,82,9.3,TRUE
+1987,Milwaukee Bucks,50,32,82,3.91,TRUE
+1987,New Jersey Nets,24,58,82,-5.05,FALSE
+1987,New York Knicks,24,58,82,-6.27,FALSE
+1987,Philadelphia 76ers,45,37,82,-0.2,TRUE
+1987,Phoenix Suns,36,46,82,-2.44,FALSE
+1987,Portland Trail Blazers,49,33,82,3.13,TRUE
+1987,Sacramento Kings,29,53,82,-3.22,FALSE
+1987,San Antonio Spurs,28,54,82,-5.1,FALSE
+1987,Seattle Supersonics,39,43,82,0.46,TRUE
+1987,Utah Jazz,44,38,82,0.4,TRUE
+1987,Washington Bullets,42,40,82,-1.37,TRUE
+1986,Atlanta Hawks,50,32,82,2.37,TRUE
+1986,Boston Celtics,67,15,82,9.41,TRUE
+1986,Chicago Bulls,30,52,82,-3.8,TRUE
+1986,Cleveland Cavaliers,29,53,82,-2.87,FALSE
+1986,Dallas Mavericks,44,38,82,1.1,TRUE
+1986,Denver Nuggets,47,35,82,1.3,TRUE
+1986,Detroit Pistons,46,36,82,1.17,TRUE
+1986,Golden State Warriors,30,52,82,-3.45,FALSE
+1986,Houston Rockets,51,31,82,2.61,TRUE
+1986,Indiana Pacers,26,56,82,-3.33,FALSE
+1986,Los Angeles Clippers,32,50,82,-6.93,FALSE
+1986,Los Angeles Lakers,62,20,82,7.74,TRUE
+1986,Milwaukee Bucks,57,25,82,9.04,TRUE
+1986,New Jersey Nets,39,43,82,-1.99,TRUE
+1986,New York Knicks,23,59,82,-5.61,FALSE
+1986,Philadelphia 76ers,54,28,82,2.35,TRUE
+1986,Phoenix Suns,32,50,82,-2.99,FALSE
+1986,Portland Trail Blazers,40,42,82,1.06,TRUE
+1986,Sacramento Kings,37,45,82,-3.07,TRUE
+1986,San Antonio Spurs,35,47,82,-1.85,TRUE
+1986,Seattle Supersonics,31,51,82,-0.1,FALSE
+1986,Utah Jazz,42,40,82,-0.37,TRUE
+1986,Washington Bullets,39,43,82,-1.8,TRUE
+1985,Atlanta Hawks,34,48,82,-1.45,FALSE
+1985,Boston Celtics,63,19,82,6.65,TRUE
+1985,Chicago Bulls,38,44,82,-0.84,TRUE
+1985,Cleveland Cavaliers,36,46,82,-2.76,TRUE
+1985,Dallas Mavericks,44,38,82,2.17,TRUE
+1985,Denver Nuggets,52,30,82,2.44,TRUE
+1985,Detroit Pistons,46,36,82,2.49,TRUE
+1985,Golden State Warriors,22,60,82,-7.34,FALSE
+1985,Houston Rockets,48,34,82,1.72,TRUE
+1985,Indiana Pacers,22,60,82,-6.21,FALSE
+1985,Kansas City Kings,31,51,82,-2.67,FALSE
+1985,Los Angeles Clippers,31,51,82,-4.49,FALSE
+1985,Los Angeles Lakers,62,20,82,7.35,TRUE
+1985,Milwaukee Bucks,59,23,82,6.85,TRUE
+1985,New Jersey Nets,42,40,82,0.23,TRUE
+1985,New York Knicks,24,58,82,-4.63,FALSE
+1985,Philadelphia 76ers,58,24,82,4.1,TRUE
+1985,Phoenix Suns,36,46,82,-2.11,TRUE
+1985,Portland Trail Blazers,42,40,82,3.4,TRUE
+1985,San Antonio Spurs,41,41,82,0.91,TRUE
+1985,Seattle Supersonics,31,51,82,-5.44,FALSE
+1985,Utah Jazz,41,41,82,-0.11,TRUE
+1985,Washington Bullets,40,42,82,-0.27,TRUE
+1984,Atlanta Hawks,40,42,82,-1.29,TRUE
+1984,Boston Celtics,62,20,82,6.56,TRUE
+1984,Chicago Bulls,27,55,82,-5.18,FALSE
+1984,Cleveland Cavaliers,28,54,82,-4.26,FALSE
+1984,Dallas Mavericks,43,39,82,0.43,TRUE
+1984,Denver Nuggets,38,44,82,-1.1,TRUE
+1984,Detroit Pistons,49,33,82,3.59,TRUE
+1984,Golden State Warriors,37,45,82,-3.4,FALSE
+1984,Houston Rockets,29,53,82,-3.09,FALSE
+1984,Indiana Pacers,26,56,82,-4.82,FALSE
+1984,Kansas City Kings,38,44,82,-1.48,TRUE
+1984,Los Angeles Lakers,54,28,82,3.76,TRUE
+1984,Milwaukee Bucks,50,32,82,4.16,TRUE
+1984,New Jersey Nets,45,37,82,1.1,TRUE
+1984,New York Knicks,47,35,82,3.84,TRUE
+1984,Philadelphia 76ers,52,30,82,2.2,TRUE
+1984,Phoenix Suns,41,41,82,0.89,TRUE
+1984,Portland Trail Blazers,48,34,82,3.55,TRUE
+1984,San Antonio Spurs,37,45,82,-0.27,FALSE
+1984,San Diego Clippers,30,52,82,-3.26,FALSE
+1984,Seattle Supersonics,42,40,82,-0.17,TRUE
+1984,Utah Jazz,45,37,82,1.13,TRUE
+1984,Washington Bullets,35,47,82,-2.89,TRUE
+1983,Atlanta Hawks,43,39,82,-0.95,TRUE
+1983,Boston Celtics,56,26,82,5.35,TRUE
+1983,Chicago Bulls,28,54,82,-4.89,FALSE
+1983,Cleveland Cavaliers,23,59,82,-7.44,FALSE
+1983,Dallas Mavericks,38,44,82,-0.41,FALSE
+1983,Denver Nuggets,45,37,82,0.62,TRUE
+1983,Detroit Pistons,37,45,82,-0.4,FALSE
+1983,Golden State Warriors,30,52,82,-3.62,FALSE
+1983,Houston Rockets,14,68,82,-11.6,FALSE
+1983,Indiana Pacers,20,62,82,-5.85,FALSE
+1983,Kansas City Kings,45,37,82,1.45,FALSE
+1983,Los Angeles Lakers,58,24,82,5.55,TRUE
+1983,Milwaukee Bucks,51,31,82,4.4,TRUE
+1983,New Jersey Nets,49,33,82,2.77,TRUE
+1983,New York Knicks,44,38,82,2.45,TRUE
+1983,Philadelphia 76ers,65,17,82,7.67,TRUE
+1983,Phoenix Suns,53,29,82,5.06,TRUE
+1983,Portland Trail Blazers,46,36,82,2.13,TRUE
+1983,San Antonio Spurs,53,29,82,3.66,TRUE
+1983,San Diego Clippers,25,57,82,-4.83,FALSE
+1983,Seattle Supersonics,48,34,82,3.21,TRUE
+1983,Utah Jazz,30,52,82,-4.2,FALSE
+1983,Washington Bullets,42,40,82,-0.13,FALSE
+1982,Atlanta Hawks,42,40,82,0.54,TRUE
+1982,Boston Celtics,63,19,82,6.38,TRUE
+1982,Chicago Bulls,34,48,82,-2.02,FALSE
+1982,Cleveland Cavaliers,15,67,82,-8.51,FALSE
+1982,Dallas Mavericks,28,54,82,-4.43,FALSE
+1982,Denver Nuggets,46,36,82,0.52,TRUE
+1982,Detroit Pistons,39,43,82,-0.91,FALSE
+1982,Golden State Warriors,45,37,82,1.04,FALSE
+1982,Houston Rockets,46,36,82,-0.04,TRUE
+1982,Indiana Pacers,35,47,82,-1.87,FALSE
+1982,Kansas City Kings,30,52,82,-3.1,FALSE
+1982,Los Angeles Lakers,57,25,82,4.87,TRUE
+1982,Milwaukee Bucks,55,27,82,5.48,TRUE
+1982,New Jersey Nets,44,38,82,0.68,TRUE
+1982,New York Knicks,33,49,82,-2.67,FALSE
+1982,Philadelphia 76ers,58,24,82,5.73,TRUE
+1982,Phoenix Suns,46,36,82,3.45,TRUE
+1982,Portland Trail Blazers,42,40,82,0.6,FALSE
+1982,San Antonio Spurs,48,34,82,2.3,TRUE
+1982,San Diego Clippers,17,65,82,-7.39,FALSE
+1982,Seattle Supersonics,52,30,82,4.13,TRUE
+1982,Utah Jazz,25,57,82,-5.66,FALSE
+1982,Washington Bullets,43,39,82,0.88,TRUE
+1981,Atlanta Hawks,31,51,82,-3.1,FALSE
+1981,Boston Celtics,62,20,82,5.88,TRUE
+1981,Chicago Bulls,45,37,82,1.98,TRUE
+1981,Cleveland Cavaliers,28,54,82,-4.85,FALSE
+1981,Dallas Mavericks,15,67,82,-8.4,FALSE
+1981,Denver Nuggets,37,45,82,-0.48,FALSE
+1981,Detroit Pistons,21,61,82,-6.32,FALSE
+1981,Golden State Warriors,39,43,82,-1.18,FALSE
+1981,Houston Rockets,40,42,82,0.33,TRUE
+1981,Indiana Pacers,44,38,82,1.4,TRUE
+1981,Kansas City Kings,40,42,82,0.01,TRUE
+1981,Los Angeles Lakers,54,28,82,3.84,TRUE
+1981,Milwaukee Bucks,60,22,82,7.27,TRUE
+1981,New Jersey Nets,24,58,82,-6.02,FALSE
+1981,New York Knicks,50,32,82,1.62,TRUE
+1981,Philadelphia 76ers,62,20,82,7.85,TRUE
+1981,Phoenix Suns,57,25,82,5.51,TRUE
+1981,Portland Trail Blazers,45,37,82,0.89,TRUE
+1981,San Antonio Spurs,52,30,82,2.88,TRUE
+1981,San Diego Clippers,36,46,82,-1.59,FALSE
+1981,Seattle Supersonics,34,48,82,-1.65,FALSE
+1981,Utah Jazz,28,54,82,-5.89,FALSE
+1981,Washington Bullets,39,43,82,0.01,FALSE
+1980,Atlanta Hawks,50,32,82,2.91,TRUE
+1980,Boston Celtics,61,21,82,7.79,TRUE
+1980,Chicago Bulls,30,52,82,-2.71,FALSE
+1980,Cleveland Cavaliers,37,45,82,0.34,FALSE
+1980,Denver Nuggets,30,52,82,-4.41,FALSE
+1980,Detroit Pistons,16,66,82,-8.24,FALSE
+1980,Golden State Warriors,24,58,82,-4.39,FALSE
+1980,Houston Rockets,41,41,82,0.17,TRUE
+1980,Indiana Pacers,37,45,82,-0.7,FALSE
+1980,Kansas City Kings,47,35,82,3.13,TRUE
+1980,Los Angeles Lakers,60,22,82,5.9,TRUE
+1980,Milwaukee Bucks,49,33,82,3.94,TRUE
+1980,New Jersey Nets,34,48,82,-1.17,FALSE
+1980,New York Knicks,39,43,82,-1.15,FALSE
+1980,Philadelphia 76ers,59,23,82,4.22,TRUE
+1980,Phoenix Suns,55,27,82,3.6,TRUE
+1980,Portland Trail Blazers,38,44,82,-0.82,TRUE
+1980,San Antonio Spurs,41,41,82,-0.38,TRUE
+1980,San Diego Clippers,35,47,82,-4.15,FALSE
+1980,Seattle Supersonics,56,26,82,4.66,TRUE
+1980,Utah Jazz,24,58,82,-6.01,FALSE
+1980,Washington Bullets,39,43,82,-2.55,TRUE
+1979,Atlanta Hawks,46,36,82,2.09,TRUE
+1979,Boston Celtics,29,53,82,-5.05,FALSE
+1979,Chicago Bulls,31,51,82,-3.96,FALSE
+1979,Cleveland Cavaliers,30,52,82,-3.72,FALSE
+1979,Denver Nuggets,47,35,82,1.28,TRUE
+1979,Detroit Pistons,30,52,82,-2.67,FALSE
+1979,Golden State Warriors,38,44,82,0.38,FALSE
+1979,Houston Rockets,47,35,82,0.98,TRUE
+1979,Indiana Pacers,38,44,82,-1.6,FALSE
+1979,Kansas City Kings,48,34,82,2.88,TRUE
+1979,Los Angeles Lakers,47,35,82,3.06,TRUE
+1979,Milwaukee Bucks,38,44,82,2.22,FALSE
+1979,New Jersey Nets,37,45,82,-4.17,TRUE
+1979,New Orleans Jazz,26,56,82,-6.24,FALSE
+1979,New York Knicks,31,51,82,-3.38,FALSE
+1979,Philadelphia 76ers,47,35,82,1.85,TRUE
+1979,Phoenix Suns,50,32,82,3.7,TRUE
+1979,Portland Trail Blazers,45,37,82,1.26,TRUE
+1979,San Antonio Spurs,48,34,82,5.18,TRUE
+1979,San Diego Clippers,43,39,82,-1.78,FALSE
+1979,Seattle Supersonics,52,30,82,2.72,TRUE
+1979,Washington Bullets,54,28,82,4.99,TRUE
+1978,Atlanta Hawks,41,41,82,-0.13,TRUE
+1978,Boston Celtics,32,50,82,-1.95,FALSE
+1978,Buffalo Braves,27,55,82,-3.74,FALSE
+1978,Chicago Bulls,40,42,82,-0.89,FALSE
+1978,Cleveland Cavaliers,43,39,82,0.48,TRUE
+1978,Denver Nuggets,48,34,82,0.83,TRUE
+1978,Detroit Pistons,38,44,82,-1.24,FALSE
+1978,Golden State Warriors,43,39,82,0.34,FALSE
+1978,Houston Rockets,28,54,82,-4,FALSE
+1978,Indiana Pacers,31,51,82,-2.5,FALSE
+1978,Kansas City Kings,31,51,82,-1.89,FALSE
+1978,Los Angeles Lakers,45,37,82,2.67,TRUE
+1978,Milwaukee Bucks,44,38,82,-0.59,TRUE
+1978,New Jersey Nets,24,58,82,-5.82,FALSE
+1978,New Orleans Jazz,39,43,82,-1.87,FALSE
+1978,New York Knicks,43,39,82,-0.55,TRUE
+1978,Philadelphia 76ers,55,27,82,5.15,TRUE
+1978,Phoenix Suns,49,33,82,3.73,TRUE
+1978,Portland Trail Blazers,58,24,82,6.15,TRUE
+1978,San Antonio Spurs,52,30,82,3.35,TRUE
+1978,Seattle Supersonics,47,35,82,1.55,TRUE
+1978,Washington Bullets,44,38,82,0.93,TRUE
+1977,Atlanta Hawks,31,51,82,-4.06,FALSE
+1977,Boston Celtics,44,38,82,-1.98,TRUE
+1977,Buffalo Braves,30,52,82,-4.44,FALSE
+1977,Chicago Bulls,44,38,82,0.9,TRUE
+1977,Cleveland Cavaliers,43,39,82,1.12,TRUE
+1977,Denver Nuggets,50,32,82,5.22,TRUE
+1977,Detroit Pistons,44,38,82,-1.04,TRUE
+1977,Golden State Warriors,46,36,82,3.22,TRUE
+1977,Houston Rockets,49,33,82,1.61,TRUE
+1977,Indiana Pacers,36,46,82,-1.77,FALSE
+1977,Kansas City Kings,40,42,82,0.88,FALSE
+1977,Los Angeles Lakers,53,29,82,2.72,TRUE
+1977,Milwaukee Bucks,30,52,82,-3.12,FALSE
+1977,New Orleans Jazz,35,47,82,-2.82,FALSE
+1977,New York Knicks,40,42,82,-0.01,FALSE
+1977,New York Nets,22,60,82,-6.78,FALSE
+1977,Philadelphia 76ers,50,32,82,3.94,TRUE
+1977,Phoenix Suns,34,48,82,0.73,FALSE
+1977,Portland Trail Blazers,49,33,82,5.59,TRUE
+1977,San Antonio Spurs,44,38,82,0.61,TRUE
+1977,Seattle Supersonics,40,42,82,-1.55,FALSE
+1977,Washington Bullets,48,34,82,1.02,TRUE
+1976,Atlanta Hawks,29,53,82,-2.91,FALSE
+1976,Boston Celtics,54,28,82,2.34,TRUE
+1976,Buffalo Braves,46,36,82,0.83,TRUE
+1976,Chicago Bulls,24,58,82,-2.9,FALSE
+1976,Cleveland Cavaliers,49,33,82,2.51,TRUE
+1976,Detroit Pistons,36,46,82,-1.05,TRUE
+1976,Denver Nuggets,60,24,84,5.99,TRUE
+1976,Golden State Warriors,59,23,82,6.65,TRUE
+1976,Houston Rockets,40,42,82,-0.8,FALSE
+1976,Indiana Pacers,39,45,84,-0.24,TRUE
+1976,Kansas City Kings,31,51,82,-2.84,FALSE
+1976,Kentucky Colonels,46,38,84,0.87,TRUE
+1976,Los Angeles Lakers,40,42,82,0.09,FALSE
+1976,Milwaukee Bucks,38,44,82,-1.45,TRUE
+1976,New Orleans Jazz,38,44,82,-0.89,FALSE
+1976,New York Nets,55,29,84,2.95,TRUE
+1976,New York Knicks,38,44,82,-1.23,FALSE
+1976,Philadelphia 76ers,46,36,82,0.26,TRUE
+1976,Phoenix Suns,42,40,82,0.61,TRUE
+1976,Portland Trail Blazers,37,45,82,-1.24,FALSE
+1976,San Antonio Spurs,50,34,84,4.11,TRUE
+1976,San Diego Sails,3,8,11,-4.64,FALSE
+1976,Seattle Supersonics,43,39,82,-0.28,TRUE
+1976,Spirits Of St. Louis,35,49,84,-3.21,FALSE
+1976,Utah Stars,4,12,16,-1.69,FALSE
+1976,Virginia Squires,15,68,83,-9.65,FALSE
+1976,Washington Bullets,48,34,82,2.33,TRUE
+1975,Atlanta Hawks,31,51,82,-1.37,FALSE
+1975,Boston Celtics,60,22,82,5.72,TRUE
+1975,Buffalo Braves,49,33,82,2.15,TRUE
+1975,Chicago Bulls,47,35,82,3.1,TRUE
+1975,Cleveland Cavaliers,40,42,82,-0.37,FALSE
+1975,Detroit Pistons,40,42,82,-1.43,TRUE
+1975,Denver Nuggets,65,19,84,7.26,TRUE
+1975,Golden State Warriors,48,34,82,3.29,TRUE
+1975,Houston Rockets,41,41,82,1.06,TRUE
+1975,Indiana Pacers,45,39,84,1.07,TRUE
+1975,Kansas City-Omaha Kings,44,38,82,-0.29,TRUE
+1975,Kentucky Colonels,58,26,84,7.25,TRUE
+1975,Los Angeles Lakers,30,52,82,-4.07,FALSE
+1975,Milwaukee Bucks,38,44,82,0.21,FALSE
+1975,Memphis Sounds,27,57,84,-5.37,TRUE
+1975,New Orleans Jazz,23,59,82,-7.85,FALSE
+1975,New York Nets,58,26,84,7.65,TRUE
+1975,New York Knicks,40,42,82,-1.23,TRUE
+1975,Philadelphia 76ers,34,48,82,-3.06,FALSE
+1975,Phoenix Suns,32,50,82,-2.38,FALSE
+1975,Portland Trail Blazers,38,44,82,0.44,FALSE
+1975,San Antonio Spurs,51,33,84,4.19,TRUE
+1975,San Diego Conquistadors,31,53,84,-5.57,FALSE
+1975,Seattle Supersonics,43,39,82,-1.09,TRUE
+1975,Spirits Of St. Louis,32,52,84,-4.36,TRUE
+1975,Utah Stars,38,46,84,-1.62,TRUE
+1975,Virginia Squires,15,69,84,-10.51,FALSE
+1975,Washington Bullets,60,22,82,7.17,TRUE
+1974,Atlanta Hawks,35,47,82,-1.43,FALSE
+1974,Boston Celtics,56,26,82,3.91,TRUE
+1974,Buffalo Braves,42,40,82,-0.11,TRUE
+1974,Capital Bullets,47,35,82,1.49,TRUE
+1974,Carolina Cougars,47,37,84,3.46,TRUE
+1974,Chicago Bulls,54,28,82,3.3,TRUE
+1974,Cleveland Cavaliers,29,53,82,-4.33,FALSE
+1974,Detroit Pistons,52,30,82,4.06,TRUE
+1974,Denver Rockets,37,47,84,-0.51,TRUE
+1974,Golden State Warriors,44,38,82,2.56,FALSE
+1974,Houston Rockets,32,50,82,-0.13,FALSE
+1974,Indiana Pacers,46,38,84,0.86,TRUE
+1974,Kansas City-Omaha Kings,33,49,82,-3.73,FALSE
+1974,Kentucky Colonels,53,31,84,4.15,TRUE
+1974,Los Angeles Lakers,47,35,82,0.87,TRUE
+1974,Milwaukee Bucks,59,23,82,8.04,TRUE
+1974,Memphis Tams,21,63,84,-7.01,FALSE
+1974,New York Nets,55,29,84,5.35,TRUE
+1974,New York Knicks,49,33,82,2.76,TRUE
+1974,Philadelphia 76ers,25,57,82,-6.37,FALSE
+1974,Phoenix Suns,30,52,82,-3.56,FALSE
+1974,Portland Trail Blazers,27,55,82,-4.78,FALSE
+1974,San Antonio Spurs,45,39,84,0.87,TRUE
+1974,San Diego Conquistadors,37,47,84,-2.54,TRUE
+1974,Seattle Supersonics,36,46,82,-2.55,FALSE
+1974,Utah Stars,51,33,84,0.36,TRUE
+1974,Virginia Squires,28,56,84,-4.99,TRUE
+1973,Atlanta Hawks,46,36,82,0.09,TRUE
+1973,Baltimore Bullets,52,30,82,3.35,TRUE
+1973,Boston Celtics,68,14,82,8.2,TRUE
+1973,Buffalo Braves,21,61,82,-9.17,FALSE
+1973,Carolina Cougars,57,27,84,4.89,TRUE
+1973,Chicago Bulls,51,31,82,3.49,TRUE
+1973,Cleveland Cavaliers,32,50,82,-2.67,FALSE
+1973,Detroit Pistons,40,42,82,0.22,FALSE
+1973,Dallas Chaparrals,28,56,84,-4.37,FALSE
+1973,Denver Rockets,47,37,84,3.11,TRUE
+1973,Golden State Warriors,47,35,82,3.1,TRUE
+1973,Houston Rockets,33,49,82,-1.73,FALSE
+1973,Indiana Pacers,51,33,84,2.14,TRUE
+1973,Kansas City-Omaha Kings,36,46,82,-2.91,FALSE
+1973,Kentucky Colonels,56,28,84,6.44,TRUE
+1973,Los Angeles Lakers,60,22,82,8.54,TRUE
+1973,Milwaukee Bucks,60,22,82,8.22,TRUE
+1973,Memphis Tams,24,60,84,-6.58,FALSE
+1973,New York Nets,30,54,84,-6.49,TRUE
+1973,New York Knicks,57,25,82,6.79,TRUE
+1973,Philadelphia 76ers,9,73,82,-12.09,FALSE
+1973,Phoenix Suns,38,44,82,-1.28,FALSE
+1973,Portland Trail Blazers,21,61,82,-6.23,FALSE
+1973,San Diego Conquistadors,30,54,84,-4.29,TRUE
+1973,Seattle Supersonics,26,56,82,-5.9,FALSE
+1973,Utah Stars,55,29,84,5.52,TRUE
+1973,Virginia Squires,42,42,84,-0.38,TRUE
+1972,Atlanta Hawks,36,46,82,-1.77,TRUE
+1972,Baltimore Bullets,38,44,82,-1.17,TRUE
+1972,Boston Celtics,56,26,82,4.78,TRUE
+1972,Buffalo Braves,22,60,82,-9.24,FALSE
+1972,Carolina Cougars,35,49,84,-3.3,FALSE
+1972,Chicago Bulls,57,25,82,8.26,TRUE
+1972,Cincinnati Royals,30,52,82,-4.04,FALSE
+1972,Cleveland Cavaliers,23,59,82,-7.63,FALSE
+1972,Detroit Pistons,26,56,82,-6.84,FALSE
+1972,Dallas Chaparrals,42,42,84,0.12,TRUE
+1972,Denver Rockets,34,50,84,-1.19,TRUE
+1972,The Floridians,36,48,84,-1.57,TRUE
+1972,Golden State Warriors,51,31,82,0.77,TRUE
+1972,Houston Rockets,34,48,82,-1.56,FALSE
+1972,Indiana Pacers,47,37,84,2.63,TRUE
+1972,Kentucky Colonels,68,16,84,8.98,TRUE
+1972,Los Angeles Lakers,69,13,82,12.28,TRUE
+1972,Milwaukee Bucks,63,19,82,11.16,TRUE
+1972,Memphis Pros,26,58,84,-5.48,FALSE
+1972,New York Nets,44,40,84,0.37,TRUE
+1972,New York Knicks,48,34,82,2.45,TRUE
+1972,Philadelphia 76ers,30,52,82,-3.67,FALSE
+1972,Phoenix Suns,49,33,82,5.5,FALSE
+1972,Portland Trail Blazers,18,64,82,-9.73,FALSE
+1972,Pittsburgh Condors,25,59,84,-7.15,FALSE
+1972,Seattle Supersonics,47,35,82,0.46,FALSE
+1972,Utah Stars,60,24,84,5.71,TRUE
+1972,Virginia Squires,45,39,84,0.88,TRUE
+1971,Atlanta Hawks,36,46,82,-1.79,TRUE
+1971,Baltimore Bullets,42,40,82,0.59,TRUE
+1971,Boston Celtics,44,38,82,2.07,FALSE
+1971,Buffalo Braves,22,60,82,-6.62,FALSE
+1971,Carolina Cougars,34,50,84,-4.02,FALSE
+1971,Chicago Bulls,51,31,82,5.24,TRUE
+1971,Cincinnati Royals,33,49,82,-3.21,FALSE
+1971,Cleveland Cavaliers,15,67,82,-11.17,FALSE
+1971,Detroit Pistons,45,37,82,-0.74,FALSE
+1971,Denver Rockets,30,54,84,-4.06,TRUE
+1971,The Floridians,37,47,84,-1.52,TRUE
+1971,Indiana Pacers,58,26,84,5.96,TRUE
+1971,Kentucky Colonels,44,40,84,0.05,TRUE
+1971,Los Angeles Lakers,48,34,82,3.07,TRUE
+1971,Milwaukee Bucks,66,16,82,12.26,TRUE
+1971,Memphis Pros,41,43,84,-0.7,TRUE
+1971,New York Nets,40,44,84,-0.61,TRUE
+1971,New York Knicks,52,30,82,5.02,TRUE
+1971,Philadelphia 76ers,47,35,82,1.55,TRUE
+1971,Phoenix Suns,48,34,82,1.9,FALSE
+1971,Portland Trail Blazers,29,53,82,-4.51,FALSE
+1971,Pittsburgh Condors,36,48,84,-2.71,FALSE
+1971,San Diego Rockets,40,42,82,-0.24,FALSE
+1971,Seattle Supersonics,38,44,82,-1.98,FALSE
+1971,San Francisco Warriors,41,41,82,-1.44,TRUE
+1971,Texas Chaparrals,30,54,84,-2.99,TRUE
+1971,Utah Stars,57,27,84,7.07,TRUE
+1971,Virginia Squires,55,29,84,3.54,TRUE
+1970,Atlanta Hawks,48,34,82,0.41,TRUE
+1970,Baltimore Bullets,50,32,82,2.12,TRUE
+1970,Boston Celtics,34,48,82,-1.85,FALSE
+1970,Carolina Cougars,42,42,84,-0.2,TRUE
+1970,Chicago Bulls,39,43,82,-1.76,TRUE
+1970,Cincinnati Royals,36,46,82,-2.95,FALSE
+1970,Detroit Pistons,31,51,82,-3.32,FALSE
+1970,Dallas Chaparrals,45,39,84,1.89,TRUE
+1970,Denver Rockets,51,33,84,4.42,TRUE
+1970,Indiana Pacers,59,25,84,3.46,TRUE
+1970,Kentucky Colonels,45,39,84,1.05,TRUE
+1970,Los Angeles Lakers,46,36,82,1.99,TRUE
+1970,Los Angeles Stars,43,41,84,-0.24,TRUE
+1970,Milwaukee Bucks,56,26,82,4.61,TRUE
+1970,Miami Floridians,23,61,84,-5.13,FALSE
+1970,New Orleans Buccaneers,42,42,84,0.77,FALSE
+1970,New York Nets,39,45,84,-0.87,TRUE
+1970,New York Knicks,60,22,82,9.09,TRUE
+1970,Philadelphia 76ers,42,40,82,3.41,TRUE
+1970,Phoenix Suns,39,43,82,-1.72,TRUE
+1970,Pittsburgh Pipers,29,55,84,-4.51,FALSE
+1970,San Diego Rockets,27,55,82,-3.1,FALSE
+1970,Seattle Supersonics,36,46,82,-2.52,FALSE
+1970,San Francisco Warriors,30,52,82,-4.41,FALSE
+1970,Washington Capitols,44,40,84,-0.64,TRUE
+1969,Atlanta Hawks,48,34,82,2.21,TRUE
+1969,Baltimore Bullets,57,25,82,4.26,TRUE
+1969,Boston Celtics,48,34,82,5.57,TRUE
+1969,Chicago Bulls,33,49,82,-2.26,FALSE
+1969,Cincinnati Royals,41,41,82,-1.02,FALSE
+1969,Detroit Pistons,32,50,82,-3.16,FALSE
+1969,Dallas Chaparrals,41,37,78,-0.68,TRUE
+1969,Denver Rockets,44,34,78,1.5,TRUE
+1969,Houston Mavericks,23,55,78,-5.69,FALSE
+1969,Indiana Pacers,44,34,78,4.12,TRUE
+1969,Kentucky Colonels,42,36,78,0.17,TRUE
+1969,Los Angeles Lakers,55,27,82,4.15,TRUE
+1969,Los Angeles Stars,33,45,78,-3.05,FALSE
+1969,Milwaukee Bucks,27,55,82,-5.12,FALSE
+1969,Miami Floridians,43,35,78,0.45,TRUE
+1969,Minnesota Pipers,36,42,78,0.1,TRUE
+1969,New Orleans Buccaneers,46,32,78,3.41,TRUE
+1969,New York Nets,17,61,78,-8.72,FALSE
+1969,New York Knicks,54,28,82,5.74,TRUE
+1969,Oakland Oaks,60,18,78,8.4,TRUE
+1969,Philadelphia 76ers,55,27,82,5.05,TRUE
+1969,Phoenix Suns,16,66,82,-8.73,FALSE
+1969,San Diego Rockets,37,45,82,-0.2,TRUE
+1969,Seattle Supersonics,30,52,82,-4.85,FALSE
+1969,San Francisco Warriors,41,41,82,-1.63,TRUE
+1968,Anaheim Amigos,25,53,78,-4.53,FALSE
+1968,Baltimore Bullets,36,46,82,-0.39,FALSE
+1968,Boston Celtics,54,28,82,4.11,TRUE
+1968,Chicago Bulls,29,53,82,-4,TRUE
+1968,Cincinnati Royals,39,43,82,-0.84,FALSE
+1968,Detroit Pistons,40,42,82,-2,TRUE
+1968,Dallas Chaparrals,46,32,78,1.36,TRUE
+1968,Denver Rockets,45,33,78,4.23,TRUE
+1968,Houston Mavericks,29,49,78,-4.27,TRUE
+1968,Indiana Pacers,38,40,78,0.21,TRUE
+1968,Kentucky Colonels,36,42,78,-0.73,TRUE
+1968,Los Angeles Lakers,52,30,82,5.61,TRUE
+1968,Minnesota Muskies,50,28,78,3.92,TRUE
+1968,New Jersey Americans,36,42,78,-1.63,FALSE
+1968,New Orleans Buccaneers,48,30,78,4.85,TRUE
+1968,New York Knicks,43,39,82,1.82,TRUE
+1968,Oakland Oaks,22,56,78,-6.64,FALSE
+1968,Philadelphia 76ers,62,20,82,8.6,TRUE
+1968,Pittsburgh Pipers,54,24,78,3.23,TRUE
+1968,San Diego Rockets,15,67,82,-8.59,FALSE
+1968,Seattle Supersonics,23,59,82,-6.45,FALSE
+1968,San Francisco Warriors,43,39,82,-0.6,TRUE
+1968,St. Louis Hawks,56,26,82,2.73,TRUE
+1967,Baltimore Bullets,20,61,81,-6.52,FALSE
+1967,Boston Celtics,60,21,81,8.05,TRUE
+1967,Chicago Bulls,33,48,81,-3.74,TRUE
+1967,Cincinnati Royals,39,42,81,-0.26,TRUE
+1967,Detroit Pistons,30,51,81,-5.53,FALSE
+1967,Los Angeles Lakers,36,45,81,0.35,TRUE
+1967,New York Knicks,36,45,81,-3.05,TRUE
+1967,Philadelphia 76ers,68,13,81,9.44,TRUE
+1967,San Francisco Warriors,44,37,81,2.86,TRUE
+1967,St. Louis Hawks,39,42,81,-1.6,TRUE
+1966,Baltimore Bullets,38,42,80,-1.19,TRUE
+1966,Boston Celtics,54,26,80,4.89,TRUE
+1966,Cincinnati Royals,45,35,80,1.16,TRUE
+1966,Detroit Pistons,22,58,80,-6.83,FALSE
+1966,Los Angeles Lakers,45,35,80,3.1,TRUE
+1966,New York Knicks,30,50,80,-2.6,FALSE
+1966,Philadelphia 76ers,55,25,80,4.68,TRUE
+1966,San Francisco Warriors,35,45,80,-2.65,FALSE
+1966,St. Louis Hawks,36,44,80,-0.56,TRUE
+1965,Baltimore Bullets,37,43,80,-2.21,TRUE
+1965,Boston Celtics,62,18,80,8.41,TRUE
+1965,Cincinnati Royals,48,32,80,2.28,TRUE
+1965,Detroit Pistons,31,49,80,-3.41,FALSE
+1965,Los Angeles Lakers,49,31,80,1.91,TRUE
+1965,New York Knicks,31,49,80,-3.66,FALSE
+1965,Philadelphia 76ers,40,40,80,-0.15,TRUE
+1965,San Francisco Warriors,17,63,80,-6.19,FALSE
+1965,St. Louis Hawks,45,35,80,3.03,TRUE
+1964,Baltimore Bullets,31,49,80,-1.79,FALSE
+1964,Boston Celtics,59,21,80,7.9,TRUE
+1964,Cincinnati Royals,55,25,80,5.08,TRUE
+1964,Detroit Pistons,23,57,80,-7.73,FALSE
+1964,Los Angeles Lakers,42,38,80,1.03,TRUE
+1964,New York Knicks,22,58,80,-6.81,FALSE
+1964,Philadelphia 76ers,34,46,80,-4.39,TRUE
+1964,San Francisco Warriors,48,32,80,5.11,TRUE
+1964,St. Louis Hawks,46,34,80,1.6,TRUE
+1963,Boston Celtics,58,22,80,7.18,TRUE
+1963,Chicago Zephyrs,25,55,80,-4.09,FALSE
+1963,Cincinnati Royals,42,38,80,1.26,TRUE
+1963,Detroit Pistons,34,46,80,-3.7,TRUE
+1963,Los Angeles Lakers,53,27,80,3.13,TRUE
+1963,New York Knicks,21,59,80,-7.25,FALSE
+1963,San Francisco Warriors,31,49,80,-2.09,FALSE
+1963,St. Louis Hawks,48,32,80,1.78,TRUE
+1963,Syracuse Nationals,48,32,80,3.79,TRUE
+1962,Boston Celtics,60,20,80,9.24,TRUE
+1962,Chicago Packers,18,62,80,-8.49,FALSE
+1962,Cincinnati Royals,43,37,80,1.76,TRUE
+1962,Detroit Pistons,37,43,80,-1.69,TRUE
+1962,Los Angeles Lakers,54,26,80,2.2,TRUE
+1962,New York Knicks,29,51,80,-4.84,FALSE
+1962,Philadelphia Warriors,49,31,80,2.78,TRUE
+1962,St. Louis Hawks,29,51,80,-3.28,FALSE
+1962,Syracuse Nationals,41,39,80,2.31,TRUE
+1961,Boston Celtics,57,22,79,5.66,TRUE
+1961,Cincinnati Royals,33,46,79,-3.46,FALSE
+1961,Detroit Pistons,34,45,79,-2.38,TRUE
+1961,Los Angeles Lakers,36,43,79,-0.05,TRUE
+1961,New York Knicks,21,58,79,-6.42,FALSE
+1961,Philadelphia Warriors,46,33,79,0.94,TRUE
+1961,St. Louis Hawks,51,28,79,3.56,TRUE
+1961,Syracuse Nationals,38,41,79,2.15,TRUE
+1960,Boston Celtics,59,16,75,8.32,TRUE
+1960,Cincinnati Royals,19,56,75,-6.32,FALSE
+1960,Detroit Pistons,30,45,75,-3.43,TRUE
+1960,Minneapolis Lakers,25,50,75,-4.23,TRUE
+1960,New York Knicks,27,48,75,-2.31,FALSE
+1960,Philadelphia Warriors,49,26,75,2.63,TRUE
+1960,St. Louis Hawks,46,29,75,2.71,TRUE
+1960,Syracuse Nationals,45,30,75,2.63,TRUE
+1959,Boston Celtics,52,20,72,6.49,TRUE
+1959,Cincinnati Royals,19,53,72,-8.88,FALSE
+1959,Detroit Pistons,28,44,72,-1.28,TRUE
+1959,Minneapolis Lakers,33,39,72,-1.33,TRUE
+1959,New York Knicks,40,32,72,0.25,TRUE
+1959,Philadelphia Warriors,32,40,72,-3,FALSE
+1959,St. Louis Hawks,49,23,72,3.69,TRUE
+1959,Syracuse Nationals,35,37,72,4.04,TRUE
+1958,Boston Celtics,49,23,72,5.5,TRUE
+1958,Cincinnati Royals,33,39,72,-1.36,TRUE
+1958,Detroit Pistons,33,39,72,-2.35,TRUE
+1958,Minneapolis Lakers,19,53,72,-6.38,FALSE
+1958,New York Knicks,35,37,72,1.21,FALSE
+1958,Philadelphia Warriors,37,35,72,-0.13,TRUE
+1958,St. Louis Hawks,41,31,72,1.32,TRUE
+1958,Syracuse Nationals,41,31,72,2.18,TRUE
+1957,Boston Celtics,44,28,72,5.36,TRUE
+1957,Fort Wayne Pistons,34,38,72,-2.31,TRUE
+1957,Minneapolis Lakers,34,38,72,-0.81,TRUE
+1957,New York Knicks,36,36,72,-0.14,FALSE
+1957,Philadelphia Warriors,37,35,72,1.58,TRUE
+1957,Rochester Royals,31,41,72,-2.19,FALSE
+1957,St. Louis Hawks,34,38,72,-0.08,TRUE
+1957,Syracuse Nationals,38,34,72,-1.42,TRUE
+1956,Boston Celtics,39,33,72,0.65,TRUE
+1956,Fort Wayne Pistons,37,35,72,0.71,TRUE
+1956,Minneapolis Lakers,33,39,72,-0.89,TRUE
+1956,New York Knicks,35,37,72,-0.42,TRUE
+1956,Philadelphia Warriors,45,27,72,4.26,TRUE
+1956,Rochester Royals,31,41,72,-2.86,FALSE
+1956,St. Louis Hawks,33,39,72,-1.47,TRUE
+1956,Syracuse Nationals,35,37,72,0.01,TRUE
+1955,Boston Celtics,36,36,72,-0.06,TRUE
+1955,Fort Wayne Pistons,43,29,72,2.39,TRUE
+1955,Milwaukee Hawks,26,46,72,-3.04,FALSE
+1955,Minneapolis Lakers,40,32,72,1.17,TRUE
+1955,New York Knicks,38,34,72,0.08,TRUE
+1955,Philadelphia Warriors,33,39,72,-0.26,FALSE
+1955,Rochester Royals,29,43,72,-1.63,TRUE
+1955,Syracuse Nationals,43,29,72,1.39,TRUE
+1954,Baltimore Bullets,16,56,72,-6.76,FALSE
+1954,Boston Celtics,42,30,72,2.33,TRUE
+1954,Fort Wayne Pistons,40,32,72,1.63,TRUE
+1954,Milwaukee Hawks,21,51,72,-5.29,FALSE
+1954,Minneapolis Lakers,46,26,72,3.06,TRUE
+1954,New York Knicks,44,28,72,-0.13,TRUE
+1954,Philadelphia Warriors,29,43,72,-2.14,FALSE
+1954,Rochester Royals,44,28,72,2.43,TRUE
+1954,Syracuse Nationals,42,30,72,4.9,TRUE
+1953,Baltimore Bullets,16,54,70,-6.41,TRUE
+1953,Boston Celtics,46,25,71,2.37,TRUE
+1953,Fort Wayne Pistons,36,33,69,-0.12,TRUE
+1953,Indianapolis Olympians,28,43,71,-2.79,TRUE
+1953,Milwaukee Hawks,27,44,71,-1.51,FALSE
+1953,Minneapolis Lakers,48,22,70,6.13,TRUE
+1953,New York Knicks,47,23,70,5.23,TRUE
+1953,Philadelphia Warriors,12,57,69,-7.2,FALSE
+1953,Rochester Royals,44,26,70,2.8,TRUE
+1953,Syracuse Nationals,47,24,71,4.31,TRUE
+1952,Baltimore Bullets,20,46,66,-7.5,FALSE
+1952,Boston Celtics,39,27,66,4.08,TRUE
+1952,Fort Wayne Pistons,29,37,66,-2.05,TRUE
+1952,Indianapolis Olympians,34,32,66,0.12,TRUE
+1952,Milwaukee Hawks,17,49,66,-7.94,FALSE
+1952,Minneapolis Lakers,40,26,66,6.03,TRUE
+1952,New York Knicks,37,29,66,0.74,TRUE
+1952,Philadelphia Warriors,33,33,66,-1.26,TRUE
+1952,Rochester Royals,41,25,66,3.35,TRUE
+1952,Syracuse Nationals,40,26,66,4.45,TRUE
+1951,Baltimore Bullets,24,42,66,-2.29,FALSE
+1951,Boston Celtics,39,30,69,-0.26,TRUE
+1951,Fort Wayne Pistons,32,36,68,-1.87,TRUE
+1951,Indianapolis Olympians,31,37,68,-2.37,TRUE
+1951,Minneapolis Lakers,44,24,68,5.41,TRUE
+1951,New York Knicks,36,30,66,0.41,TRUE
+1951,Philadelphia Warriors,40,26,66,3.76,TRUE
+1951,Rochester Royals,41,27,68,2.99,TRUE
+1951,Syracuse Nationals,32,34,66,0.53,TRUE
+1951,Tri-Cities Blackhawks,25,43,68,-3.79,FALSE
+1951,Washington Capitols,10,25,35,-4.77,FALSE
+1950,Anderson Packers,37,27,64,3.8,TRUE
+1950,Baltimore Bullets,25,43,68,-5.59,FALSE
+1950,Boston Celtics,22,46,68,-2.5,FALSE
+1950,Chicago Stags,40,28,68,1.6,TRUE
+1950,Denver Nuggets,11,51,62,-11.5,FALSE
+1950,Fort Wayne Pistons,40,28,68,1.37,TRUE
+1950,Indianapolis Olympians,39,25,64,3.7,TRUE
+1950,Minneapolis Lakers,51,17,68,8.34,TRUE
+1950,New York Knicks,40,28,68,2.12,TRUE
+1950,Philadelphia Warriors,26,42,68,-3.1,TRUE
+1950,Rochester Royals,51,17,68,7.76,TRUE
+1950,Sheboygan Red Skins,22,40,62,-5.4,TRUE
+1950,St. Louis Bombers,26,42,68,-2.82,FALSE
+1950,Syracuse Nationals,51,13,64,8.14,TRUE
+1950,Tri-Cities Blackhawks,29,35,64,-0.59,TRUE
+1950,Waterloo Hawks,19,43,62,-5.53,FALSE
+1950,Washington Capitols,32,36,68,-0.94,TRUE
+1949,Baltimore Bullets,29,31,60,1.38,TRUE
+1949,Boston Celtics,25,35,60,-2.92,FALSE
+1949,Chicago Stags,38,22,60,4,TRUE
+1949,Fort Wayne Pistons,22,38,60,-3.23,FALSE
+1949,Indianapolis Jets,18,42,60,-4.72,FALSE
+1949,Minneapolis Lakers,44,16,60,7.38,TRUE
+1949,New York Knicks,32,28,60,1.48,TRUE
+1949,Philadelphia Warriors,28,32,60,0.35,TRUE
+1949,Providence Steamrollers,12,48,60,-9.13,FALSE
+1949,Rochester Royals,45,15,60,6.63,TRUE
+1949,St. Louis Bombers,29,31,60,-3.63,TRUE
+1949,Washington Capitols,38,22,60,2.43,TRUE
+1948,Baltimore Bullets,28,20,48,3.85,TRUE
+1948,Boston Celtics,20,28,48,-3.92,TRUE
+1948,Chicago Stags,28,20,48,2.65,TRUE
+1948,New York Knicks,26,22,48,3.15,TRUE
+1948,Philadelphia Warriors,27,21,48,1.27,TRUE
+1948,Providence Steamrollers,6,42,48,-11.56,FALSE
+1948,St. Louis Bombers,29,19,48,2.02,TRUE
+1948,Washington Capitols,28,20,48,2.54,TRUE
+1947,Boston Celtics,22,38,60,-4.88,FALSE
+1947,Chicago Stags,39,22,61,3.67,TRUE
+1947,Cleveland Rebels,30,30,60,-0.95,TRUE
+1947,Detroit Falcons,20,40,60,-2,FALSE
+1947,New York Knicks,33,27,60,0.65,TRUE
+1947,Philadelphia Warriors,35,25,60,3.48,TRUE
+1947,Pittsburgh Ironmen,15,45,60,-6.38,FALSE
+1947,Providence Steamrollers,28,32,60,-1.67,FALSE
+1947,St. Louis Bombers,38,23,61,2.51,TRUE
+1947,Toronto Huskies,22,38,60,-4.43,FALSE
+1947,Washington Capitols,49,11,60,9.87,TRUE
