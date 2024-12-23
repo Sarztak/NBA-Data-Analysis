@@ -70,8 +70,6 @@ The dataset contains team-level performance metrics for multiple seasons. Variab
 team_wins_modeling/
 ├── data/                   # Dataset files
 ├── notebooks/              # Jupyter notebooks
-├── scripts/                # Python scripts
-├── results/                # Model outputs and visualizations
 ├── README.md               # Project documentation
 └── requirements.txt        # Required libraries
 ```
