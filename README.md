@@ -1,6 +1,6 @@
 # Predicting The Percentage of Wins Using Regression Models
 
-![Project Banner](assets/banner.png)
+![Project Banner](team_wins_modelling/assests/banner.png)
 
 ## Project Overview
 This project aims to predict the percentage of wins for a NBA teams in a given season using basic statistical and machine learning models. By analyzing team-level data, we developed insights into the key factors contributing to team success and built robust predictive models to evaluate these factors.
