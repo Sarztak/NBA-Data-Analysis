@@ -68,10 +68,10 @@ The dataset contains team-level performance metrics for multiple seasons. Variab
 ## Repository Structure
 ```
 team_wins_modeling/
-├── data/                   # Dataset files
-├── notebooks/              # Jupyter notebooks
-├── README.md               # Project documentation
-└── requirements.txt        # Required libraries
+├── data/                                                         # Dataset files
+├── notebooks/                                                    # Jupyter notebooks
+├── README.md                                                     # Project documentation
+└── Predicting Wins Precentage using Machine Learning.pptx        # presentation
 ```
 
 ## Contributing
